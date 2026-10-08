@@ -35,7 +35,11 @@ class Recall:
 TOPICS = {
     "battery": r"lithium|li-ion|lithium-ion|battery|batteries|battery pack|power bank|thermal runaway",
     "energy-storage": r"energy storage|bess|home battery|powerwall|storage system|inverter|solar",
-    "charging": r"charger|charging|evse|power supply|power adapter|ac adapter",
+    # word boundaries keep "rechargeable" from counting as a charger recall
+    "charging": r"\bchargers?\b|\bcharging (?:station|cable|cord|dock|base|case|pad|adapter|equipment|system)s?\b"
+                r"|\bpower suppl(?:y|ies)\b|\b(?:power|ac|wall) adapters?\b",
+    "ev-charging": r"\bevse\b|\bev chargers?\b|electric vehicle (?:supply equipment|charg)|charging station"
+                   r"|\bwallbox\b|level 2 charg|dc fast charg",
     "e-mobility": r"e-bike|ebike|electric bicycle|e-scooter|scooter|hoverboard|self-balancing|electric unicycle",
     "ev-traction": r"high voltage battery|high-voltage battery|traction battery|hybrid battery|electric vehicle|\bev\b|propulsion",
     "robotics": r"robot|robotic|autonomous|automated driving|self-driving|lawn mower robot|vacuum robot",
@@ -43,6 +47,9 @@ TOPICS = {
 
 FIRE = r"fire|burn|overheat|explo|smoke|ignit|thermal runaway|melt"
 SEVERE = r"death|died|fatal|serious injur|hospital"
+# Physical safety hazards. Recalls with none of these (e.g. RoHS / REACH
+# chemical-content withdrawals) are dropped: they are not product safety stories.
+SAFETY = FIRE + r"|shock|electrocut|injur|laceration|crash|fall|entrap|pinch|strangul|choking|collision|loss of (?:control|steering|braking|motive power)"
 
 
 def classify(r: Recall, extra_topics: Optional[dict] = None) -> Recall:
@@ -71,7 +78,8 @@ def classify(r: Recall, extra_topics: Optional[dict] = None) -> Recall:
 STANDARD_HINTS = {
     "battery": "UL 2054 / IEC 62133-2 (portable packs), UL 2056 (power banks), UN 38.3",
     "energy-storage": "UL 9540 / UL 9540A, UL 1973, UL 1741, NFPA 855",
-    "charging": "UL 1310 / IEC 62368-1 (power supplies), UL 2202 / UL 2594 (EV)",
+    "charging": "UL 1310 / IEC 62368-1 (chargers and power supplies)",
+    "ev-charging": "UL 2594 / UL 2202, IEC 61851-1, UL 9741 (bidirectional)",
     "e-mobility": "UL 2849 (e-bike systems), UL 2271 (LEV batteries), UL 2272 (personal e-mobility)",
     "ev-traction": "FMVSS 305a, UL 2580, ISO 6469-1, UN ECE R100",
     "robotics": "ISO 10218, ISO 13482, UL 3300, ANSI/A3 R15.08, UL 4600 (autonomy)",

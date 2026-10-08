@@ -49,7 +49,7 @@ recall-radar --from-json saved.json          # offline, from a previous run
 
 ## Topics and scoring
 
-Topics are keyword patterns in `recall_radar/model.py` (`battery`, `energy-storage`, `charging`, `e-mobility`, `ev-traction`, `robotics`). Add your own with the `extra_topics` argument or by editing the file. Recalls with no matching topic are dropped.
+Topics are keyword patterns in `recall_radar/model.py` (`battery`, `energy-storage`, `charging`, `ev-charging`, `e-mobility`, `ev-traction`, `robotics`). Add your own with the `extra_topics` argument or by editing the file. Recalls with no matching topic are dropped, and so are withdrawals with no physical hazard (RoHS or REACH chemical content, labelling). Only recalls scoring 3 or more make "Worth a post".
 
 | Signal | Points |
 |---|---|

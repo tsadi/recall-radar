@@ -103,3 +103,39 @@ def test_cli_offline(tmp_path, capsys):
     out = tmp_path / "digest.md"
     assert main(["--from-json", str(p), "--until", "2026-10-05", "-o", str(out)]) == 0
     assert "E-Bike" in out.read_text()
+
+
+def _r(**kw):
+    from recall_radar.model import Recall
+    base = dict(source="CPSC", id="x", date="2026-10-01", title="")
+    base.update(kw)
+    return Recall(**base)
+
+
+def test_rechargeable_is_not_a_charger_recall():
+    r = filter_relevant([_r(title="Rechargeable Hand Warmers Recalled",
+                            hazard="The lithium-ion battery can overheat and ignite.", units=77000)])[0]
+    assert "battery" in r.topics
+    assert "charging" not in r.topics and "ev-charging" not in r.topics
+    md = render_markdown([r], "a", "b")
+    assert "UL 2594" not in md and "UL 2054" in md
+
+
+def test_ev_charger_gets_ev_standards():
+    r = filter_relevant([_r(title="Level 2 EV Chargers Recalled", hazard="Can overheat, posing a fire hazard.")])[0]
+    assert "ev-charging" in r.topics
+    assert "UL 2594" in render_markdown([r], "a", "b")
+
+
+def test_chemical_only_withdrawal_dropped():
+    r = _r(source="SafetyGate", title="Electrical Appliances: Wireless mouse",
+           hazard="Environment. The solders contain lead and cadmium.",
+           description="Rechargeable wireless mouse with charging cable. Does not comply with RoHS 2.")
+    assert filter_relevant([r]) == []
+
+
+def test_low_score_not_worth_a_post():
+    r = filter_relevant([_r(title="Power adapter recalled", hazard="Risk of electric shock.")])[0]
+    assert r.score < 3
+    md = render_markdown([r], "a", "b")
+    assert "Worth a post" not in md and "Power adapter" in md

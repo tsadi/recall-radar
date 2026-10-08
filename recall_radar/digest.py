@@ -3,10 +3,11 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Iterable, Optional
 
-from .model import STANDARD_HINTS, Recall, classify
+from .model import SAFETY, STANDARD_HINTS, Recall, classify
 
 
 def filter_relevant(recalls: Iterable[Recall], topics: Optional[set] = None,
@@ -16,6 +17,8 @@ def filter_relevant(recalls: Iterable[Recall], topics: Optional[set] = None,
         classify(r, extra_topics)
         if not r.topics:
             continue
+        if not (re.search(SAFETY, r.text()) or r.flags):
+            continue  # chemical-content or labelling withdrawals, no physical hazard
         if topics and not (set(r.topics) & topics):
             continue
         out.append(r)
@@ -42,7 +45,7 @@ def _short(text: str, n: int = 220) -> str:
     return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0] + "…"
 
 
-def render_markdown(recalls: list, since: str, until: str, top: int = 3) -> str:
+def render_markdown(recalls: list, since: str, until: str, top: int = 3, min_score: int = 3) -> str:
     lines = [f"# Recall radar: {since} to {until}", ""]
     if not recalls:
         return "\n".join(lines + ["No battery, charging, e-mobility, energy storage or robotics recalls in this window.", ""])
@@ -51,8 +54,10 @@ def render_markdown(recalls: list, since: str, until: str, top: int = 3) -> str:
         by_src[r.source] = by_src.get(r.source, 0) + 1
     lines.append(f"{len(recalls)} relevant recalls · " + " · ".join(f"{k} {v}" for k, v in sorted(by_src.items())))
     lines.append("")
-    lines += ["## Worth a post", ""]
-    for r in recalls[:top]:
+    picks = [r for r in recalls if r.score >= min_score][:top]
+    if picks:
+        lines += ["## Worth a post", ""]
+    for r in picks:
         units = f"{r.units:,} units · " if r.units else ""
         topics = list(r.topics)
         if "battery" in topics and set(topics) & {"ev-traction", "e-mobility", "energy-storage"}:
