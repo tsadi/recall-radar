@@ -1,0 +1,28 @@
+{
+  "carousel": {"content": [
+    {"id": 10119200, "reference": "SR/02810/26", "publicationDate": "2026-10-02T13:02:00.595+00:00"},
+    {"id": 10119109, "reference": "SR/02803/26", "publicationDate": "2026-10-02T13:02:00.595+00:00"}
+  ]},
+  "details": {
+    "10119200": {
+      "id": 10119200, "reference": "SR/02810/26", "publicationDate": "2026-10-02T13:02:00.595Z",
+      "country": {"name": "Germany"},
+      "product": {"productCategory": {"name": "ELECTRICAL_APPLIANCES"}, "nameSpecific": "20000 mAh power bank",
+                  "versions": [{"name": "Power bank", "description": "Black power bank with USB-C port."}]},
+      "risk": {"riskType": [{"name": "FIRE"}, {"name": "BURNS"}],
+               "versions": [{"riskDescription": "The lithium-ion cells can overheat during charging and catch fire.",
+                             "legalProvision": "The product does not comply with the General Product Safety Regulation."}]},
+      "measureTaken": {"measures": [{"measureCategory": {"name": "RECALL_OF_THE_PRODUCT_FROM_END_USERS"}}]}
+    },
+    "10119109": {
+      "id": 10119109, "reference": "SR/02803/26", "publicationDate": "2026-10-02T13:02:00.595Z",
+      "country": {"name": "Sweden"},
+      "product": {"productCategory": {"name": "ELECTRICAL_APPLIANCES"}, "nameSpecific": "Creative Led Study Desk Lamp",
+                  "versions": [{"name": "Desk lamp", "description": "Desk lamp."}]},
+      "risk": {"riskType": [{"name": "ENVIRONMENT"}],
+               "versions": [{"riskDescription": "The solders in the product have an excessive concentration of lead.",
+                             "legalProvision": "The product does not comply with the RoHS 2 Directive."}]},
+      "measureTaken": {"measures": [{"measureCategory": {"name": "PRODUCT_WITHDRAWAL_FROM_MARKET"}}]}
+    }
+  }
+}

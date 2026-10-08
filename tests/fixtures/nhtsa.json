@@ -1,0 +1,18 @@
+[
+  {"report_received_date": "2026-10-01T00:00:00.000", "nhtsa_id": "26V634000",
+   "recall_link": {"url": "https://www.nhtsa.gov/recalls?nhtsaId=26V634000", "description": "Go to Recall"},
+   "manufacturer": "Airstream, Inc.", "subject": "Fairing May Detach", "recall_type": "Vehicle",
+   "potentially_affected": "91",
+   "defect_summary": "Airstream, Inc. (Airstream) is recalling certain 2026-2027 Rangeline recreational vehicles. Inadequate adhesion may cause the fairing to detach.",
+   "consequence_summary": "A detached fairing can become a road hazard for other vehicles, increasing the risk of a crash.",
+   "corrective_action": "The remedy is still under development.", "fire_risk_when_parked": "No", "do_not_drive": "No"},
+  {"report_received_date": "2026-10-02T00:00:00.000", "nhtsa_id": "26V640000",
+   "recall_link": {"url": "https://www.nhtsa.gov/recalls?nhtsaId=26V640000", "description": "Go to Recall"},
+   "manufacturer": "Example EV Co.", "subject": "High Voltage Battery May Short Circuit",
+   "component": "ELECTRICAL SYSTEM: PROPULSION SYSTEM: TRACTION BATTERY", "recall_type": "Vehicle",
+   "potentially_affected": "18,400",
+   "defect_summary": "Example EV Co. is recalling certain 2025 vehicles. Cell contamination may cause an internal short in the high voltage battery.",
+   "consequence_summary": "An internal short can lead to a battery fire, increasing the risk of injury.",
+   "corrective_action": "Dealers will replace the battery module, free of charge.",
+   "fire_risk_when_parked": "Yes", "do_not_drive": "No"}
+]

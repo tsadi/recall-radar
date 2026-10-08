@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "recall-radar"
+version = "0.1.0"
+description = "Weekly battery, charging, e-mobility, energy storage and robotics recall digest from CPSC, NHTSA and EU Safety Gate"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Tsadi Shvo"}]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+recall-radar = "recall_radar.cli:main"
+
+[tool.setuptools]
+packages = ["recall_radar"]

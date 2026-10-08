@@ -1,0 +1,18 @@
+[
+  {"RecallID": 99001, "RecallNumber": "26-901", "RecallDate": "2026-10-02T00:00:00",
+   "Title": "Example Brand E-Bike Batteries Recalled Due to Fire Hazard",
+   "Description": "This recall involves lithium-ion batteries sold with Example Brand e-bikes.",
+   "URL": "https://www.cpsc.gov/Recalls/2026/example-e-bike-batteries",
+   "Products": [{"Name": "E-bike battery", "NumberOfUnits": "About 12,000"}],
+   "Hazards": [{"Name": "The lithium-ion batteries can overheat and ignite, posing fire and burn hazards."}],
+   "Remedies": [{"Name": "Replace"}],
+   "Manufacturers": [{"Name": "Example Mobility Co."}],
+   "ManufacturerCountries": [{"Country": "China"}]},
+  {"RecallID": 99002, "RecallNumber": "26-902", "RecallDate": "2026-10-03T00:00:00",
+   "Title": "Example Kids' Pajamas Recalled Due to Violation of Flammability Standard",
+   "Description": "This recall involves children's pajamas.",
+   "URL": "https://www.cpsc.gov/Recalls/2026/example-pajamas",
+   "Products": [{"Name": "Pajamas", "NumberOfUnits": "About 3,000"}],
+   "Hazards": [{"Name": "The pajamas fail to meet flammability standards."}],
+   "Remedies": [{"Name": "Refund"}]}
+]
