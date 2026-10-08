@@ -40,23 +40,5 @@
    "charging"
   ],
   "score": 10
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/02757/26",
-  "date": "2026-10-07",
-  "title": "Electrical Appliances: Wireless mouse",
-  "hazard": "Environment. The solders in the product have excessive concentrations of lead and cadmium (measured values up to 61.2% and 0.297% by weight, respectively).\nCadmium bio-accumulates and poses a risk to the environment. Lead poses a risk to the environment.\n",
-  "description": "White wireless computer mouse with a USB charging cable. The product does not comply with the requirements of the Directive on the restriction of the use of certain hazardous substances in electrical and electronic equipment (RoHS 2 Directive).",
-  "remedy": "Product Withdrawal From Market",
-  "manufacturer": "",
-  "country": "Sweden",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119110",
-  "flags": [],
-  "topics": [
-   "charging"
-  ],
-  "score": 1
  }
 ]
