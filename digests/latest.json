@@ -40,5 +40,25 @@
    "charging"
   ],
   "score": 10
+ },
+ {
+  "source": "CPSC",
+  "id": "27015",
+  "date": "2026-10-08",
+  "title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
+  "hazard": "The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard.\u202fAdditionally, the packaging and product do not have the warnings required under\u202fReese\u2019s Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
+  "description": "This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the below picture.  ",
+  "remedy": "Consumers should stop using the recalled LED-light key that was included with certain SureLock Bicycle Lock sets immediately and contact Giant Bicycle for a $5 refund. Consumers will be asked to bring the LED key to an authorized Giant retailer to participate in the recall and receive the refund. When returning the LED-light key to a retailer, consumers will be required to bring either the complete bicycle lock purchase or a picture of the serial number on the bicycle lock in order to verify the serial number is in the scope of the recall. Consumers may continue to use the bicycle lock and non-LED-light keys included with the SureLock Bicycle Lock sets.  \n\n\nNote: Button and Coin cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+  "manufacturer": "",
+  "country": "China",
+  "units": 3630,
+  "url": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+  "flags": [
+   "fire"
+  ],
+  "topics": [
+   "battery"
+  ],
+  "score": 9
  }
 ]
