@@ -1,48 +1,6 @@
 [
  {
   "source": "CPSC",
-  "id": "27011",
-  "date": "2026-10-01",
-  "title": "Kobayashi Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards",
-  "hazard": "The lithium-ion battery and electrical components in the recalled hand warmers can overheat and ignite, posing a risk of serious injury from fire and burn hazards.",
-  "description": "This recall involves Kobayashi\u2019s HotHands-branded rechargeable hand warmers. The white with orange hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard.  Model number \u201cH163650\u201d and the batch number are on the hand warmer\u2019s underside, and the white HotHands logo is on the top and on the product packaging.  \n\nOnly electric rechargeable hand warmers with the white HotHands logo are included in this recall. ",
-  "remedy": "Consumers should stop using the recalled hand warmers immediately and contact Kobayashi for a full refund. Consumers will be asked to go to https://hothands.com/recall-notice-rechargeable and follow the instructions to obtain a claim number.  Consumers will also be asked to destroy the product by writing in permanent marker \u201cRecalled\u201d and the claim number on the product, and to submit a photo showing the marked hand warmer, the product\u2019s model number, and the four-digit batch number. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. \n\nNote:\u202fDo not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-  "manufacturer": "",
-  "country": "China",
-  "units": 77000,
-  "url": "https://www.cpsc.gov/Recalls/2027/Kobayashi-Recalls-Rechargeable-Hand-Warmers-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery",
-   "charging"
-  ],
-  "score": 11
- },
- {
-  "source": "CPSC",
-  "id": "27009",
-  "date": "2026-10-01",
-  "title": "Gobi Heat Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards",
-  "hazard": "The lithium-ion battery and electrical components in the recalled hand warmers can overheat and ignite, posing a risk of serious injury from fire and burn hazards.",
-  "description": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard.  \u201cGobi Heat\u201d is printed on the top of the hand warmers and on the product packaging, and model number \u201cUT3053\u201d on the underside. ",
-  "remedy": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker \u201cRecalled\u201d on the product and send a photo, showing the marked hand warmer and the product\u2019s model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. \n\nNote:\u202fDo not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-  "manufacturer": "",
-  "country": "China",
-  "units": 5500,
-  "url": "https://www.cpsc.gov/Recalls/2027/Gobi-Heat-Recalls-Rechargeable-Hand-Warmers-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery",
-   "charging"
-  ],
-  "score": 10
- },
- {
-  "source": "CPSC",
   "id": "27015",
   "date": "2026-10-08",
   "title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
@@ -60,5 +18,99 @@
    "battery"
   ],
   "score": 9
+ },
+ {
+  "source": "NHTSA",
+  "id": "26V652000",
+  "date": "2026-10-06",
+  "title": "E-One Incorporated: Wire Harness and Busbar May Overheat",
+  "hazard": "An overheated busbar can increase the risk of a fire.",
+  "description": "ELECTRICAL SYSTEM E-One Incorporated (E-One) is recalling certain 2024-2026 Typhoon N, 2025-2026 Cyclone N, and 2026 Cyclone II fire trucks. The positive power supply may be loose, causing the wiring harness and busbar to overheat.",
+  "remedy": "E-ONE will provide a replacement wiring harness and busbar, free of charge.  Owner notification letters are expected to be mailed October 20, 2026. Owners may contact E-One customer service at 1-352-237-1122.",
+  "manufacturer": "E-One Incorporated",
+  "country": "",
+  "units": 301,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V652000",
+  "flags": [
+   "fire"
+  ],
+  "topics": [
+   "charging"
+  ],
+  "score": 4
+ },
+ {
+  "source": "NHTSA",
+  "id": "26V641000",
+  "date": "2026-10-02",
+  "title": "Blue Bird Body Company: High Voltage Battery Mounting Bolts May Be Loose or Missing",
+  "hazard": "A high voltage battery with loose or missing mounting bolts can cause a loss of drive power, increasing the risk of a crash.",
+  "description": "ELECTRICAL SYSTEM Blue Bird Body Company (Blue Bird) is recalling certain 2018-2024, 2026 Vision and All American Electric school buses. The high voltage battery system mounting bolts may be loose or missing.",
+  "remedy": "Dealers will inspect and reinstall bolts with thread locker. Damaged or missing bolts will be replaced. All repairs will be performed free of charge. Owner notification letters are expected to be mailed December 1, 2026. Owners may contact Blue Bird customer service at 1-478-822-2242. Blue Bird's number for this recall is R26AK.",
+  "manufacturer": "Blue Bird Body Company",
+  "country": "",
+  "units": 1590,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V641000",
+  "flags": [],
+  "topics": [
+   "battery",
+   "ev-traction"
+  ],
+  "score": 3
+ },
+ {
+  "source": "NHTSA",
+  "id": "26V642000",
+  "date": "2026-10-02",
+  "title": "Blue Bird Body Company: High Voltage Battery Mounting Bolts May Be Loose or Missing",
+  "hazard": "A high voltage battery with loose or missing mounting bolts can cause a loss of drive power, increasing the risk of a crash.",
+  "description": "ELECTRICAL SYSTEM Blue Bird Body Company (Blue Bird) is recalling certain 2022-2024 All American Electric transit buses. The high voltage battery system mounting bolts may be loose or missing.",
+  "remedy": "Dealers will inspect and reinstall bolts with thread locker. Damaged or missing bolts will be replaced. All repairs will be performed free of charge. Owner notification letters are expected to be mailed December 1, 2026. Owners may contact Blue Bird customer service at 1-478-822-2242. Blue Bird's number for this recall is R26AK.",
+  "manufacturer": "Blue Bird Body Company",
+  "country": "",
+  "units": 16,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V642000",
+  "flags": [],
+  "topics": [
+   "battery",
+   "ev-traction"
+  ],
+  "score": 2
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/02887/26",
+  "date": "2026-10-09",
+  "title": "Toys: Transport vehicle truck",
+  "hazard": "Chemical, Choking. The battery compartment screw does not comply with the requirements for battery compartment fasteners because it becomes detached when loosened. As a result, the button batteries inside are easily accessible. A small child may put the batteries in the mouth and swallow them, which could cause choking and/or severe internal injuries to the gastrointestinal tract. The screw or fastener must remain attached to the battery cover or compartment door when loosened or opened.",
+  "description": "A plastic toy logging truck consisting of an orange cab and a grey cargo bed loaded with imitation wooden logs. The logs are secured to the vehicle with elastic retaining bands. The product does not comply with the requirements of the Toy Safety Directive nor with European standard EN 62115.",
+  "remedy": "Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "Slovenia",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119165",
+  "flags": [],
+  "topics": [
+   "battery"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/02886/26",
+  "date": "2026-10-09",
+  "title": "Electrical Appliances: DM132",
+  "hazard": "Electric_Shock. The windings in the transformer are not properly fixed or insulated and are too close to the metal parts. Additionally, the safety distances on the printed circuit board are too small and the distance between the live parts and the appliance\u2019s outer casing is insufficient. As a result, accessible parts could become live, increasing the risk of electric shock.",
+  "description": "White USB wall charger The product does not comply with the requirements of the Low Voltage Directive.",
+  "remedy": "Removal From Online Marketplace",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119149",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
  }
 ]
