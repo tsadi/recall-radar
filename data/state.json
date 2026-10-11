@@ -928,5 +928,21 @@
   "flags": [],
   "topics": [],
   "score": 0
+ },
+ {
+  "source": "CPSC",
+  "id": "0",
+  "date": "None",
+  "title": "Error retrieving Recalls: The underlying provider failed on Open.",
+  "hazard": "",
+  "description": "",
+  "remedy": "",
+  "manufacturer": "",
+  "country": "",
+  "units": null,
+  "url": null,
+  "flags": [],
+  "topics": [],
+  "score": 0
  }
 ]
