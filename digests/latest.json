@@ -41,6 +41,24 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/02623/26",
+  "date": "2026-10-12",
+  "title": "Machinery: Rechargeable Grass Mower",
+  "hazard": "Electric_Shock. Due to inadequate insulation between the input and output circuits of the product, the user can receive an electric shock from easily accessible live parts.",
+  "description": "Electric lithium-ion battery powered lawn mower with attached wall plug. The product does not comply with the requirements of the Machinery Directive.",
+  "remedy": "Import Rejected At Border",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118887",
+  "flags": [],
+  "topics": [
+   "battery"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/02887/26",
   "date": "2026-10-09",
   "title": "Toys: Transport vehicle truck",

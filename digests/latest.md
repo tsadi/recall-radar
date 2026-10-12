@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-04 to 2026-10-11
+# Recall radar: 2026-10-05 to 2026-10-12
 
-4 relevant recalls · CPSC 1 · NHTSA 1 · SafetyGate 2
+5 relevant recalls · CPSC 1 · NHTSA 1 · SafetyGate 3
 
 ## Worth a post
 
@@ -20,5 +20,6 @@ https://www.nhtsa.gov/recalls?nhtsaId=26V652000
 |---|---|---|---|---|---|
 | 9 | 2026-10-08 | CPSC | battery | [Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due…](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries) | 3,630 |
 | 4 | 2026-10-06 | NHTSA | charging | [E-One Incorporated: Wire Harness and Busbar May Overheat](https://www.nhtsa.gov/recalls?nhtsaId=26V652000) | 301 |
+| 1 | 2026-10-12 | SafetyGate | battery | [Machinery: Rechargeable Grass Mower](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118887) |  |
 | 1 | 2026-10-09 | SafetyGate | battery | [Toys: Transport vehicle truck](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119165) |  |
 | 1 | 2026-10-09 | SafetyGate | charging | [Electrical Appliances: DM132](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119149) |  |
