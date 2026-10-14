@@ -21,31 +21,29 @@
  },
  {
   "source": "NHTSA",
-  "id": "26V652000",
-  "date": "2026-10-06",
-  "title": "E-One Incorporated: Wire Harness and Busbar May Overheat",
-  "hazard": "An overheated busbar can increase the risk of a fire.",
-  "description": "ELECTRICAL SYSTEM E-One Incorporated (E-One) is recalling certain 2024-2026 Typhoon N, 2025-2026 Cyclone N, and 2026 Cyclone II fire trucks. The positive power supply may be loose, causing the wiring harness and busbar to overheat.",
-  "remedy": "E-ONE will provide a replacement wiring harness and busbar, free of charge.  Owner notification letters are expected to be mailed October 20, 2026. Owners may contact E-One customer service at 1-352-237-1122.",
-  "manufacturer": "E-One Incorporated",
+  "id": "26V663000",
+  "date": "2026-10-08",
+  "title": "Honda (American Honda Motor Co.): Tire Repair Kit Bottle Cap May Detach",
+  "hazard": "A detached bottle cap can become a projectile and strike the user or others nearby, increasing the risk of injury.",
+  "description": "TIRES Honda (American Honda Motor Co.) is recalling certain 2023-2026 CR-V Hybrid, Accord Hybrid, and 2025 CR-V Fuel Cell EV vehicles that were previously remedied under NHTSA recall number 26V366. When using the tire repair kit, pressure may build within the sealant bottle, causing the bottle cap to detach.",
+  "remedy": "Dealers will inspect and replace the tire repair kit nozzle, as necessary, free of charge. Owner notification letters are expected to be mailed November 16, 2026. Owners may contact Honda's customer service at 1-866-784-1870. Honda's number for this recall is PPW. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning October 17, 2026. Vehicles previously repaired under recall 26V366 will need to have the new remedy completed.",
+  "manufacturer": "Honda (American Honda Motor Co.)",
   "country": "",
-  "units": 301,
-  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V652000",
-  "flags": [
-   "fire"
-  ],
+  "units": 4804,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V663000",
+  "flags": [],
   "topics": [
-   "charging"
+   "ev-traction"
   ],
-  "score": 4
+  "score": 6
  },
  {
   "source": "SafetyGate",
   "id": "SR/02924/26",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "title": "Electrical Appliances: Girlanda",
   "hazard": "Electric_Shock. The live parts of the lamp cap are accessible when the lamp is partially screwed into the lampholder of the luminaire, leading to electric shock. Consequently, the user could touch accessible live parts and receive an electric shock.\n\n\n",
-  "description": "LED-lighting chain. AC Mains pluggable with non detachable power supply cord, class II, 16 A round plug. E27 lamp holders. The product does not comply with the requirements of the Low Voltage Directive and the relevant European standard EN IEC 60598.",
+  "description": "LED-lighting chain. AC Mains pluggable with non-detachable power supply cord, class II, 16 A round plug. E27 lamp holders. The product does not comply with the requirements of the Low Voltage Directive and the relevant European standard EN IEC 60598.",
   "remedy": "Product Recall From Consumers",
   "manufacturer": "",
   "country": "Finland",
