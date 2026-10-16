@@ -1,41 +1,45 @@
 [
  {
-  "source": "CPSC",
-  "id": "27015",
-  "date": "2026-10-08",
-  "title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
-  "hazard": "The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard. \u00a0Additionally, the packaging and product do not have the warnings required under\u00a0Reese's Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
-  "description": "This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the last picture above. Name Serial number From To SURELOCK PROTECTOR 1 DT 00000 2303 00000 2607 SURELOCK PROTECTOR 1 STD 00001 2303 00001 2607 SURELOCK PROTECTOR 1 LS 00002 2303 00002 2607 SURELOCK FLEX KEY COIL 15 00010 2303 00010 2607 SURELOCK FLEX KEY COIL 12 00011 2303 00011 2607 SURELOCK FLEX KEY 15 00013 2303 00013 2607 SURELOCK FLEX KEY 12 00014 2303 00014 2607 GIANT SURELOCK FLEX KEY COIL 12 00065 2303 00065 2607 GIANT SURELOCK FLEX KEY COIL 15 00066 2303 00066 2607",
-  "remedy": "Consumers should stop using the recalled LED-light key that was included with certain SureLock Bicycle Lock sets immediately and contact Giant Bicycle for a $5 refund. Consumers will be asked to bring the LED key to an authorized Giant retailer to participate in the recall and receive the refund. When returning the LED-light key to a retailer, consumers will be required to bring either the complete bicycle lock purchase or a picture of the serial number on the bicycle lock in order to verify the serial number is in the scope of the recall. Consumers may continue to use the bicycle lock and non-LED-light keys included with the SureLock Bicycle Lock sets. Note: Button and Coin cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+  "source": "SafetyGate",
+  "id": "SR/02964/26",
+  "date": "2026-10-16",
+  "title": "Electrical Appliances: 42V 2A",
+  "hazard": "Electric_Shock, Fire. The plug face does not meet dimensional requirements, and the supplied fuse is considered counterfeit and lacks the required ballast. As a result, the product may not be adequately protected under fault conditions, which could cause overheating and lead to a fire.",
+  "description": "Black 42 V charger for electric scooters, hoverboards and electric bicycles. The product does not comply with the requirements of the Low Voltage Directive.",
+  "remedy": "Removal From Online Marketplace",
   "manufacturer": "",
-  "country": "China",
-  "units": 3630,
-  "url": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119209",
   "flags": [
    "fire"
   ],
   "topics": [
-   "battery"
+   "charging",
+   "e-mobility"
   ],
-  "score": 9
+  "score": 5
  },
  {
-  "source": "NHTSA",
-  "id": "26V663000",
-  "date": "2026-10-08",
-  "title": "Honda (American Honda Motor Co.): Tire Repair Kit Bottle Cap May Detach",
-  "hazard": "A detached bottle cap can become a projectile and strike the user or others nearby, increasing the risk of injury.",
-  "description": "TIRES Honda (American Honda Motor Co.) is recalling certain 2023-2026 CR-V Hybrid, Accord Hybrid, and 2025 CR-V Fuel Cell EV vehicles that were previously remedied under NHTSA recall number 26V366. When using the tire repair kit, pressure may build within the sealant bottle, causing the bottle cap to detach.",
-  "remedy": "Dealers will inspect and replace the tire repair kit nozzle, as necessary, free of charge. Owner notification letters are expected to be mailed November 16, 2026. Owners may contact Honda's customer service at 1-866-784-1870. Honda's number for this recall is PPW. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning October 17, 2026. Vehicles previously repaired under recall 26V366 will need to have the new remedy completed.",
-  "manufacturer": "Honda (American Honda Motor Co.)",
-  "country": "",
-  "units": 4804,
-  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V663000",
-  "flags": [],
-  "topics": [
-   "ev-traction"
+  "source": "SafetyGate",
+  "id": "SR/02963/26",
+  "date": "2026-10-16",
+  "title": "Hobby Sports Equipment: Electric Bike",
+  "hazard": "Fire. There is no sufficient technical documentation for the product and no evidence of production control. In the absence of evidence to demonstrate the conformity of the product, it may be possible for it to overheat and catch fire. Furthermore, the product was supplied with an additional non-compliant two-pin plug, which could lead to overheating and fire.",
+  "description": "Electric bicycle with a wall plug and charger. The product does not comply with the requirements of the Machinery Directive.",
+  "remedy": "Removal From Online Marketplace; Import Rejected At Border",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275",
+  "flags": [
+   "fire"
   ],
-  "score": 6
+  "topics": [
+   "charging",
+   "e-mobility"
+  ],
+  "score": 5
  },
  {
   "source": "SafetyGate",
