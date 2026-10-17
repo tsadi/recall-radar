@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-09 to 2026-10-16
+# Recall radar: 2026-10-10 to 2026-10-17
 
-6 relevant recalls · SafetyGate 6
+4 relevant recalls · SafetyGate 4
 
 ## Worth a post
 
@@ -22,5 +22,3 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275
 | 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Hobby Sports Equipment: Electric Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275) |  |
 | 1 | 2026-10-14 | SafetyGate | charging | [Electrical Appliances: Girlanda](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318) |  |
 | 1 | 2026-10-12 | SafetyGate | battery | [Machinery: Rechargeable Grass Mower](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118887) |  |
-| 1 | 2026-10-09 | SafetyGate | battery | [Toys: Transport vehicle truck](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119165) |  |
-| 1 | 2026-10-09 | SafetyGate | charging | [Electrical Appliances: DM132](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119149) |  |

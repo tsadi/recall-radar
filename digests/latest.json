@@ -27,7 +27,7 @@
   "title": "Hobby Sports Equipment: Electric Bike",
   "hazard": "Fire. There is no sufficient technical documentation for the product and no evidence of production control. In the absence of evidence to demonstrate the conformity of the product, it may be possible for it to overheat and catch fire. Furthermore, the product was supplied with an additional non-compliant two-pin plug, which could lead to overheating and fire.",
   "description": "Electric bicycle with a wall plug and charger. The product does not comply with the requirements of the Machinery Directive.",
-  "remedy": "Removal From Online Marketplace; Import Rejected At Border",
+  "remedy": "Import Rejected At Border; Removal From Online Marketplace",
   "manufacturer": "",
   "country": "United Kingdom in respect of Northern Ireland",
   "units": null,
@@ -74,42 +74,6 @@
   "flags": [],
   "topics": [
    "battery"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/02887/26",
-  "date": "2026-10-09",
-  "title": "Toys: Transport vehicle truck",
-  "hazard": "Chemical, Choking. The battery compartment screw does not comply with the requirements for battery compartment fasteners because it becomes detached when loosened. As a result, the button batteries inside are easily accessible. A small child may put the batteries in the mouth and swallow them, which could cause choking and/or severe internal injuries to the gastrointestinal tract. The screw or fastener must remain attached to the battery cover or compartment door when loosened or opened.",
-  "description": "A plastic toy logging truck consisting of an orange cab and a grey cargo bed loaded with imitation wooden logs. The logs are secured to the vehicle with elastic retaining bands. The product does not comply with the requirements of the Toy Safety Directive nor with European standard EN 62115.",
-  "remedy": "Product Recall From Consumers",
-  "manufacturer": "",
-  "country": "Slovenia",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119165",
-  "flags": [],
-  "topics": [
-   "battery"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/02886/26",
-  "date": "2026-10-09",
-  "title": "Electrical Appliances: DM132",
-  "hazard": "Electric_Shock. The windings in the transformer are not properly fixed or insulated and are too close to the metal parts. Additionally, the safety distances on the printed circuit board are too small and the distance between the live parts and the appliance\u2019s outer casing is insufficient. As a result, accessible parts could become live, increasing the risk of electric shock.",
-  "description": "White USB wall charger The product does not comply with the requirements of the Low Voltage Directive.",
-  "remedy": "Removal From Online Marketplace",
-  "manufacturer": "",
-  "country": "France",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119149",
-  "flags": [],
-  "topics": [
-   "charging"
   ],
   "score": 1
  }
