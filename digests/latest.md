@@ -1,4 +1,4 @@
-# Recall radar: 2026-10-10 to 2026-10-17
+# Recall radar: 2026-10-11 to 2026-10-18
 
 4 relevant recalls · SafetyGate 4
 
