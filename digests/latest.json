@@ -43,6 +43,24 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/02967/26",
+  "date": "2026-10-19",
+  "title": "Electrical Appliances: Chargeur Rapide 20W avec Port USB",
+  "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The secondary USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.",
+  "description": "USB charger with: Input voltage: 100-240\u00a0V\u00a0AC Output: 5 V DC / 9 V DC / 12 V DC Power or current output: 3 A / 2.22 A / 1.67 A Class II protection against electric shocks. The product does not comply with the requirements of the Low Voltage Directive.",
+  "remedy": "Other; Removal From Online Marketplace",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119329",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/02924/26",
   "date": "2026-10-14",
   "title": "Electrical Appliances: Girlanda",

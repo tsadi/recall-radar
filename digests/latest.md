@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-11 to 2026-10-18
+# Recall radar: 2026-10-12 to 2026-10-19
 
-4 relevant recalls · SafetyGate 4
+5 relevant recalls · SafetyGate 5
 
 ## Worth a post
 
@@ -20,5 +20,6 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275
 |---|---|---|---|---|---|
 | 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Electrical Appliances: 42V 2A](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119209) |  |
 | 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Hobby Sports Equipment: Electric Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275) |  |
+| 1 | 2026-10-19 | SafetyGate | charging | [Electrical Appliances: Chargeur Rapide 20W avec Port USB](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119329) |  |
 | 1 | 2026-10-14 | SafetyGate | charging | [Electrical Appliances: Girlanda](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318) |  |
 | 1 | 2026-10-12 | SafetyGate | battery | [Machinery: Rechargeable Grass Mower](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118887) |  |
