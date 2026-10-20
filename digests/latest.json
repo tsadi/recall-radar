@@ -43,6 +43,43 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/03015/26",
+  "date": "2026-10-20",
+  "title": "Machinery: Yongkang MinRui Electric Tool Plant 21V Cordless Drill Driver Kit",
+  "hazard": "Electric_Shock. The power supply adaptor does not meet the dimensional requirements and is not supplied with a fuse. The creepage and clearance distances between the primary and secondary circuits are inadequate. Moreover, the product could break down over time, causing accessible metal parts to become live. The user could touch live parts and receive an electric shock.",
+  "description": "Black and red electric combi drill with 21v battery and charger in a black plastic carry case. The product does not comply with the requirements of the Low Voltage Directive.",
+  "remedy": "Import Rejected At Border; Destruction Of Product",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119367",
+  "flags": [],
+  "topics": [
+   "battery",
+   "charging"
+  ],
+  "score": 2
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03019/26",
+  "date": "2026-10-20",
+  "title": "Toys: Toy wand",
+  "hazard": "Chemical, Choking. The screw that secures the battery compartment is not captive. If the screw is lost when the batteries are being changed, the cover of the battery compartment could be removed easily. A child could put the button batteries in the mouth, which could cause gastrointestinal injuries or lead to choking.",
+  "description": "Light stick made of blue transparent plastic with a button to switch on the LEDs. The product does not comply with the requirements of the Toy Safety Directive nor with European standard EN 62115.",
+  "remedy": "Product Withdrawal From Market; Destruction Of Product; Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119366",
+  "flags": [],
+  "topics": [
+   "battery"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/02967/26",
   "date": "2026-10-19",
   "title": "Electrical Appliances: Chargeur Rapide 20W avec Port USB",
@@ -74,24 +111,6 @@
   "flags": [],
   "topics": [
    "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/02623/26",
-  "date": "2026-10-12",
-  "title": "Machinery: Rechargeable Grass Mower",
-  "hazard": "Electric_Shock. Due to inadequate insulation between the input and output circuits of the product, the user can receive an electric shock from easily accessible live parts.",
-  "description": "Electric lithium-ion battery powered lawn mower with attached wall plug. The product does not comply with the requirements of the Machinery Directive.",
-  "remedy": "Import Rejected At Border",
-  "manufacturer": "",
-  "country": "United Kingdom in respect of Northern Ireland",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118887",
-  "flags": [],
-  "topics": [
-   "battery"
   ],
   "score": 1
  }
