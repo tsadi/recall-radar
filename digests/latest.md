@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-13 to 2026-10-20
+# Recall radar: 2026-10-14 to 2026-10-21
 
-6 relevant recalls · SafetyGate 6
+7 relevant recalls · SafetyGate 7
 
 ## Worth a post
 
@@ -20,6 +20,7 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275
 |---|---|---|---|---|---|
 | 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Electrical Appliances: 42V 2A](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119209) |  |
 | 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Hobby Sports Equipment: Electric Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275) |  |
+| 2 | 2026-10-21 | SafetyGate | battery, charging | [Electrical Appliances: Car battery trickle charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119341) |  |
 | 2 | 2026-10-20 | SafetyGate | battery, charging | [Machinery: Yongkang MinRui Electric Tool Plant 21V Cordless Drill Driver Kit](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119367) |  |
 | 1 | 2026-10-20 | SafetyGate | battery | [Toys: Toy wand](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119366) |  |
 | 1 | 2026-10-19 | SafetyGate | charging | [Electrical Appliances: Chargeur Rapide 20W avec Port USB](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119329) |  |
