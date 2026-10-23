@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-15 to 2026-10-22
+# Recall radar: 2026-10-16 to 2026-10-23
 
-14 relevant recalls · CPSC 2 · SafetyGate 12
+15 relevant recalls · CPSC 2 · NHTSA 1 · SafetyGate 12
 
 ## Worth a post
 
@@ -30,6 +30,7 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424
 | 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Hobby Sports Equipment: Electric Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Toys: COOL.TRICYCLES/ Tricycle électrique pour garçons, jouets interactifs…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Pyrotechnic Articles: Destroyer](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118728) |  |
+| 4 | 2026-10-20 | NHTSA | energy-storage | [Forest River, Inc.: Solar Panel Wiring May Be Loose](https://www.nhtsa.gov/recalls?nhtsaId=26V686000) | 215 |
 | 2 | 2026-10-21 | SafetyGate | battery, charging | [Electrical Appliances: Car battery trickle charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119341) |  |
 | 2 | 2026-10-20 | SafetyGate | battery, charging | [Machinery: Yongkang MinRui Electric Tool Plant 21V Cordless Drill Driver Kit](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119367) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: Dual USB Charger Kit](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119407) |  |
