@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-16 to 2026-10-23
+# Recall radar: 2026-10-17 to 2026-10-24
 
-15 relevant recalls · CPSC 2 · NHTSA 1 · SafetyGate 12
+14 relevant recalls · CPSC 2 · NHTSA 2 · SafetyGate 10
 
 ## Worth a post
 
@@ -14,10 +14,10 @@ https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Reca
 Standards to look at: UL 9540 / UL 9540A, UL 1973, UL 1741, NFPA 855
 https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys
 
-**Hobby Sports Equipment: E-Bike** (SafetyGate SR/03041/26, 2026-10-22)
-Fire. The charger plug of the product has an insufficient fuse. If there is a fault with the product, it could overheat and catch fire. There is no valid technical documentation for the product and no evidence of…
-Standards to look at: UL 1310 / IEC 62368-1 (chargers and power supplies); UL 2849 (e-bike systems), UL 2271 (LEV batteries), UL 2272 (personal e-mobility)
-https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424
+**Volkswagen Group of America, Inc.: High Voltage Battery May Catch Fire** (NHTSA 26V698000, 2026-10-21)
+9,048 units · A vehicle fire increases the risk of injury.
+Standards to look at: FMVSS 305a, UL 2580, ISO 6469-1, UN ECE R100
+https://www.nhtsa.gov/recalls?nhtsaId=26V698000
 
 ## All relevant recalls
 
@@ -25,9 +25,8 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424
 |---|---|---|---|---|---|
 | 8 | 2026-10-22 | CPSC | battery | [FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess…](https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys) | 94 |
 | 7 | 2026-10-22 | CPSC | battery, energy-storage | [BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury…](https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys) | 6,533 |
+| 6 | 2026-10-21 | NHTSA | battery, ev-traction | [Volkswagen Group of America, Inc.: High Voltage Battery May Catch Fire](https://www.nhtsa.gov/recalls?nhtsaId=26V698000) | 9,048 |
 | 5 | 2026-10-22 | SafetyGate | battery, charging, e-mobility | [Hobby Sports Equipment: E-Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424) |  |
-| 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Electrical Appliances: 42V 2A](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119209) |  |
-| 5 | 2026-10-16 | SafetyGate | charging, e-mobility | [Hobby Sports Equipment: Electric Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119275) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Toys: COOL.TRICYCLES/ Tricycle électrique pour garçons, jouets interactifs…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Pyrotechnic Articles: Destroyer](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118728) |  |
 | 4 | 2026-10-20 | NHTSA | energy-storage | [Forest River, Inc.: Solar Panel Wiring May Be Loose](https://www.nhtsa.gov/recalls?nhtsaId=26V686000) | 215 |
