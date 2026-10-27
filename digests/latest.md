@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-19 to 2026-10-26
+# Recall radar: 2026-10-20 to 2026-10-27
 
-14 relevant recalls · CPSC 2 · NHTSA 2 · SafetyGate 10
+13 relevant recalls · CPSC 2 · NHTSA 2 · SafetyGate 9
 
 ## Worth a post
 
@@ -36,4 +36,3 @@ https://www.nhtsa.gov/recalls?nhtsaId=26V698000
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: Dual USB-C Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119402) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: 3 USB Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119427) |  |
 | 1 | 2026-10-20 | SafetyGate | battery | [Toys: Toy wand](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119366) |  |
-| 1 | 2026-10-19 | SafetyGate | charging | [Electrical Appliances: Chargeur Rapide 20W avec Port USB](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119329) |  |
