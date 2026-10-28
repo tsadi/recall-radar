@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-20 to 2026-10-27
+# Recall radar: 2026-10-21 to 2026-10-28
 
-13 relevant recalls · CPSC 2 · NHTSA 2 · SafetyGate 9
+10 relevant recalls · CPSC 2 · NHTSA 1 · SafetyGate 7
 
 ## Worth a post
 
@@ -29,10 +29,7 @@ https://www.nhtsa.gov/recalls?nhtsaId=26V698000
 | 5 | 2026-10-22 | SafetyGate | battery, charging, e-mobility | [Hobby Sports Equipment: E-Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Toys: COOL.TRICYCLES/ Tricycle électrique pour garçons, jouets interactifs…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Pyrotechnic Articles: Destroyer](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118728) |  |
-| 4 | 2026-10-20 | NHTSA | energy-storage | [Forest River, Inc.: Solar Panel Wiring May Be Loose](https://www.nhtsa.gov/recalls?nhtsaId=26V686000) | 215 |
 | 2 | 2026-10-21 | SafetyGate | battery, charging | [Electrical Appliances: Car battery trickle charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119341) |  |
-| 2 | 2026-10-20 | SafetyGate | battery, charging | [Machinery: Yongkang MinRui Electric Tool Plant 21V Cordless Drill Driver Kit](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119367) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: Dual USB Charger Kit](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119407) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: Dual USB-C Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119402) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: 3 USB Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119427) |  |
-| 1 | 2026-10-20 | SafetyGate | battery | [Toys: Toy wand](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119366) |  |

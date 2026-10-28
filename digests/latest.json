@@ -122,26 +122,6 @@
   "score": 4
  },
  {
-  "source": "NHTSA",
-  "id": "26V686000",
-  "date": "2026-10-20",
-  "title": "Forest River, Inc.: Solar Panel Wiring May Be Loose",
-  "hazard": "A loose wire may increase the risk of a fire.",
-  "description": "ELECTRICAL SYSTEM Forest River, Inc. (Forest River) is recalling certain 2023-2026 Pause travel trailers. The incorrect connector was used to secure the 12 volt solar panel wires.",
-  "remedy": "Dealers will install a new connector, free of charge. Owner notification letters are expected to be mailed November 28, 2026. Owners may contact Forest River customer service at 1-574-535-2748. Forest River's number for this recall is 426-2107.",
-  "manufacturer": "Forest River, Inc.",
-  "country": "",
-  "units": 215,
-  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V686000",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "energy-storage"
-  ],
-  "score": 4
- },
- {
   "source": "SafetyGate",
   "id": "SR/02962/26",
   "date": "2026-10-21",
@@ -153,25 +133,6 @@
   "country": "Finland",
   "units": null,
   "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119341",
-  "flags": [],
-  "topics": [
-   "battery",
-   "charging"
-  ],
-  "score": 2
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03015/26",
-  "date": "2026-10-20",
-  "title": "Machinery: Yongkang MinRui Electric Tool Plant 21V Cordless Drill Driver Kit",
-  "hazard": "Electric_Shock. The power supply adaptor does not meet the dimensional requirements and is not supplied with a fuse. The creepage and clearance distances between the primary and secondary circuits are inadequate. Moreover, the product could break down over time, causing accessible metal parts to become live. The user could touch live parts and receive an electric shock.",
-  "description": "Black and red electric combi drill with 21v battery and charger in a black plastic carry case. The product does not comply with the requirements of the Low Voltage Directive.",
-  "remedy": "Import Rejected At Border; Destruction Of Product",
-  "manufacturer": "",
-  "country": "United Kingdom in respect of Northern Ireland",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119367",
   "flags": [],
   "topics": [
    "battery",
@@ -230,24 +191,6 @@
   "flags": [],
   "topics": [
    "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03019/26",
-  "date": "2026-10-20",
-  "title": "Toys: Toy wand",
-  "hazard": "Chemical, Choking. The screw that secures the battery compartment is not captive. If the screw is lost when the batteries are being changed, the cover of the battery compartment could be removed easily. A child could put the button batteries in the mouth, which could cause gastrointestinal injuries or lead to choking.",
-  "description": "Light stick made of blue transparent plastic with a button to switch on the LEDs. The product does not comply with the requirements of the Toy Safety Directive nor with European standard EN 62115.",
-  "remedy": "Product Withdrawal From Market; Destruction Of Product; Product Recall From Consumers",
-  "manufacturer": "",
-  "country": "France",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119366",
-  "flags": [],
-  "topics": [
-   "battery"
   ],
   "score": 1
  }
