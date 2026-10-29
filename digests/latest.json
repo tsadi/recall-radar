@@ -39,27 +39,6 @@
   "score": 7
  },
  {
-  "source": "NHTSA",
-  "id": "26V698000",
-  "date": "2026-10-21",
-  "title": "Volkswagen Group of America, Inc.: High Voltage Battery May Catch Fire",
-  "hazard": "A vehicle fire increases the risk of injury.",
-  "description": "ELECTRICAL SYSTEM Volkswagen Group of America, Inc. (Audi) is recalling certain 2024-2025 Q4 E-Tron and Q4 Sportback E-Tron vehicles. The high voltage battery may fail and cause a fire.",
-  "remedy": "Owners are advised to only charge their vehicles to a maximum of 80% capacity until the repair has been completed. The remedy is currently under development. Interim letters notifying owners of the safety risk are expected to be mailed December 18, 2026. Additional letters will be sent once the remedy is available. Owners may contact Audi customer service at 1-800-253-2834. Audi's number for this recall is 93SK. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on October 23, 2026.",
-  "manufacturer": "Volkswagen Group of America, Inc.",
-  "country": "",
-  "units": 9048,
-  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V698000",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery",
-   "ev-traction"
-  ],
-  "score": 6
- },
- {
   "source": "SafetyGate",
   "id": "SR/03041/26",
   "date": "2026-10-22",
@@ -120,25 +99,6 @@
    "battery"
   ],
   "score": 4
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/02962/26",
-  "date": "2026-10-21",
-  "title": "Electrical Appliances: Car battery trickle charger",
-  "hazard": "Electric_Shock. The product lacks adequate insulation, which may cause metal parts to become insufficiently protected. As a result, the user could touch accessible live parts and receive an electric shock.",
-  "description": "Intelligent car battery charger. The product does not comply with the requirements of the Low Voltage Directive nor with the European standards EN 60335-1 and EN 60335-2-29.",
-  "remedy": "Product Recall From Consumers",
-  "manufacturer": "",
-  "country": "Finland",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119341",
-  "flags": [],
-  "topics": [
-   "battery",
-   "charging"
-  ],
-  "score": 2
  },
  {
   "source": "SafetyGate",

@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-21 to 2026-10-28
+# Recall radar: 2026-10-22 to 2026-10-29
 
-10 relevant recalls · CPSC 2 · NHTSA 1 · SafetyGate 7
+8 relevant recalls · CPSC 2 · SafetyGate 6
 
 ## Worth a post
 
@@ -14,10 +14,10 @@ https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Reca
 Standards to look at: UL 9540 / UL 9540A, UL 1973, UL 1741, NFPA 855
 https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys
 
-**Volkswagen Group of America, Inc.: High Voltage Battery May Catch Fire** (NHTSA 26V698000, 2026-10-21)
-9,048 units · A vehicle fire increases the risk of injury.
-Standards to look at: FMVSS 305a, UL 2580, ISO 6469-1, UN ECE R100
-https://www.nhtsa.gov/recalls?nhtsaId=26V698000
+**Hobby Sports Equipment: E-Bike** (SafetyGate SR/03041/26, 2026-10-22)
+Fire. The charger plug of the product has an insufficient fuse. If there is a fault with the product, it could overheat and catch fire. There is no valid technical documentation for the product and no evidence of…
+Standards to look at: UL 1310 / IEC 62368-1 (chargers and power supplies); UL 2849 (e-bike systems), UL 2271 (LEV batteries), UL 2272 (personal e-mobility)
+https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424
 
 ## All relevant recalls
 
@@ -25,11 +25,9 @@ https://www.nhtsa.gov/recalls?nhtsaId=26V698000
 |---|---|---|---|---|---|
 | 8 | 2026-10-22 | CPSC | battery | [FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess…](https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys) | 94 |
 | 7 | 2026-10-22 | CPSC | battery, energy-storage | [BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury…](https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys) | 6,533 |
-| 6 | 2026-10-21 | NHTSA | battery, ev-traction | [Volkswagen Group of America, Inc.: High Voltage Battery May Catch Fire](https://www.nhtsa.gov/recalls?nhtsaId=26V698000) | 9,048 |
 | 5 | 2026-10-22 | SafetyGate | battery, charging, e-mobility | [Hobby Sports Equipment: E-Bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Toys: COOL.TRICYCLES/ Tricycle électrique pour garçons, jouets interactifs…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348) |  |
 | 4 | 2026-10-22 | SafetyGate | battery | [Pyrotechnic Articles: Destroyer](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118728) |  |
-| 2 | 2026-10-21 | SafetyGate | battery, charging | [Electrical Appliances: Car battery trickle charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119341) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: Dual USB Charger Kit](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119407) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: Dual USB-C Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119402) |  |
 | 1 | 2026-10-22 | SafetyGate | charging | [Electrical Appliances: 3 USB Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119427) |  |
