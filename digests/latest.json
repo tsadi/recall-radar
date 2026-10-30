@@ -1,153 +1,57 @@
 [
  {
   "source": "CPSC",
-  "id": "27038",
-  "date": "2026-10-22",
-  "title": "FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess Costumes Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
-  "hazard": "The costumes violate the mandatory safety standard for toys because the button cell batteries can be accessed easily by children, posing a deadly ingestion hazard. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
-  "description": "This recall involves CIYTI Light-Up Princess Costumes. The costumes include a blue dress with a crown and wand that light up, and a remote control. The crowns, scepters, and remote controls contain button batteries. There are no markings on the product. The package has \"CIYTI\" on the front.",
-  "remedy": "Consumers should take the princess costumes away from children immediately, stop using them and contact FoShanShiNanHaiQuNuoAiTongZhuangShangHang for a full refund. Consumers will be asked to write \"RECALLED\" with permanent marker on the dress, crown, wand, and remote, then throw away the toys and submit a photo of the disposed toys to Norakid2026@outlook.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+  "id": "27056",
+  "date": "2026-10-29",
+  "title": "HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon.com by Mitrytech",
+  "hazard": "The power bank\u2019s lithium battery can explode and ignite, posing fire and burn hazards to consumers.",
+  "description": "This recall involves HAIARA power banks, model W5 PRO, sold on Amazon.com by Mitrytech. The power banks are black and have \u201c20W\u201d printed on the front and \u201cModel: W5 PRO\u201d printed on the side. The seller name, Mitrytech, and brand name, HAIARA, are located on the purchase receipt. This warning applies to power banks with no date code (formatted \u201cYYYYMMDD\u201d) printed on the side.",
+  "remedy": "Consumers should stop using the recalled power banks immediately. Consumers who purchased their power banks on Amazon.com from Mitrytech should contact Mitrytech for instructions on how to receive a full refund. To receive a refund, consumers will be required to submit a photo of their recalled power bank with the word \u201crecalled\u201d written on it in permanent marker and confirm disposal of the power bank in accordance with applicable laws and regulations.",
   "manufacturer": "",
   "country": "China",
-  "units": 94,
-  "url": "https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "units": 11000,
+  "url": "https://cpsc.gov/Recalls/2027/HAIARA-Power-Banks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-com-by-Mitrytech",
   "flags": [
    "fire"
   ],
   "topics": [
    "battery"
   ],
-  "score": 8
- },
- {
-  "source": "CPSC",
-  "id": "27042",
-  "date": "2026-10-22",
-  "title": "BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
-  "hazard": "None reported.",
-  "description": "This recall involves Bamamon LED Projecting Finger Light toys which contain three button cells batteries. The finger lights come in 32 pieces in a box in red, orange, blue, black, purple, clear, green and yellow. The finger lights project eight space themed patterns such as astronauts, rockets, UFO, galaxy and solar systems printed on labels located on the front of the package.  ",
-  "remedy": "Consumers should stop using the toys immediately and contact Bamamon. Consumers will be asked to email a photograph showing the product being properly disposed of in the trash to bamamonproductrecall@outlook.com.",
-  "manufacturer": "",
-  "country": "China",
-  "units": 6533,
-  "url": "https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
-  "flags": [],
-  "topics": [
-   "battery",
-   "energy-storage"
-  ],
-  "score": 7
+  "score": 10
  },
  {
   "source": "SafetyGate",
-  "id": "SR/03041/26",
-  "date": "2026-10-22",
-  "title": "Hobby Sports Equipment: E-Bike",
-  "hazard": "Fire. The charger plug of the product has an insufficient fuse. If there is a fault with the product, it could overheat and catch fire. There is no valid technical documentation for the product and no evidence of production control. In the absence of evidence to demonstrate the conformity of the product, it may be possible for it to overheat and catch fire.",
-  "description": "Black electric bicycle with a battery and charger. The product does not comply with the requirements of the Machinery Directive.",
-  "remedy": "Destruction Of Product; Import Rejected At Border; Removal From Online Marketplace",
+  "id": "SR/03110/26",
+  "date": "2026-10-30",
+  "title": "Hobby Sports Equipment: E-bike",
+  "hazard": "Fire. It is not possible to determine based on available documentation that there are sufficient battery protective systems in place to prevent thermal runaway from occurring. If the product is charged and left unattended overnight, a fault may occur potentially leading to the battery exploding and a fire starting.",
+  "description": "Black electric bicycle with charging supply and wall plug.  The product does not comply with the requirements of the Machinery Directive.",
+  "remedy": "Import Rejected At Border",
   "manufacturer": "",
   "country": "United Kingdom in respect of Northern Ireland",
   "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119424",
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119491",
   "flags": [
    "fire"
   ],
   "topics": [
    "battery",
-   "charging",
    "e-mobility"
   ],
   "score": 5
  },
  {
   "source": "SafetyGate",
-  "id": "SR/03020/26",
-  "date": "2026-10-22",
-  "title": "Toys: COOL.TRICYCLES/  Tricycle \u00e9lectrique pour gar\u00e7ons, jouets interactifs \u00e9ducatifs et cr\u00e9atifs",
-  "hazard": "Chemical. The screw that secures the battery compartment is not captive. If the screw is lost when the batteries are being changed, the cover of the battery compartment could be removed easily. If a child puts them in the mouth, the batteries can overheat and release electrolyte which can be ingested by the child and cause damage to the gastrointestinal tract.",
-  "description": "Character toy electric tricycle, battery operated, with LEDs on wheels and on the propeller. The product does not comply with the requirements of the Toy Safety Directive nor with European standards EN 62115 and EN 71-1.",
-  "remedy": "Warning Consumers Of Risks; Removal From Online Marketplace",
-  "manufacturer": "",
-  "country": "France",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery"
-  ],
-  "score": 4
- },
- {
-  "source": "SafetyGate",
-  "id": "OR/00120/26",
-  "date": "2026-10-22",
-  "title": "Pyrotechnic Articles: Destroyer",
-  "hazard": "Asphyxiation, Burns, Damage_To_Sight, Injuries. The fireworks may burst or release burning material over an extended period of time after functioning. The user might reignite the product, which may result in the user being hit by the pyrotechnical effects and matter from the product. This can lead to injuries, burns and damage to sight. The user may bring the product inside and it may release burning material in the building. Consequently, this poses a risk of asphyxiation.",
-  "description": "Battery with 100 shots. The product does not comply with the requirements of the Pyrotechnic Directive nor the European standard EN 15947-5.",
-  "remedy": "Product Withdrawal From Market",
-  "manufacturer": "",
-  "country": "Denmark",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10118728",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery"
-  ],
-  "score": 4
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03045/26",
-  "date": "2026-10-22",
-  "title": "Electrical Appliances: Dual USB Charger Kit",
-  "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.",
-  "description": "White mains USB charger with two USB-A ports, integrated EU plug, and a charging cable. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 60335-1.",
+  "id": "SR/03109/26",
+  "date": "2026-10-30",
+  "title": "Electrical Appliances: Fast Charger with 15 W Power",
+  "hazard": "Electric_Shock. The creepage distance between the primary and secondary circuit are inadequate. Live parts of the product may become accessible to the user who can receive an electric shock.",
+  "description": "USB charger. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 62368-1.",
   "remedy": "Product Recall From Consumers; Product Withdrawal From Market",
   "manufacturer": "",
-  "country": "Hungary",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119407",
-  "flags": [],
-  "topics": [
-   "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03044/26",
-  "date": "2026-10-22",
-  "title": "Electrical Appliances: Dual USB-C Charger",
-  "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.",
-  "description": "White plastic USB charger with two USB-C outports. The product does not comply with the requirements of the Low Voltage\nDirective nor with the European standard EN 60335-1.",
-  "remedy": "Destruction Of Product; Product Recall From Consumers; Product Withdrawal From Market; Ban Marketing Of Product",
-  "manufacturer": "",
-  "country": "Hungary",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119402",
-  "flags": [],
-  "topics": [
-   "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03042/26",
-  "date": "2026-10-22",
-  "title": "Electrical Appliances: 3 USB Charger",
-  "hazard": "Electric_Shock. The creepage and clearance distances between the primary and secondary side in the \u201csafety extra low voltage\u201d (SELV) transformer of the product are inadequate. Live parts of the product may become accessible to the user which may result in an electric shock.",
-  "description": "USB phone charger with 3 USB Type-A outports. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 62368-1.",
-  "remedy": "Removal From Online Marketplace",
-  "manufacturer": "",
   "country": "Denmark",
   "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119427",
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119514",
   "flags": [],
   "topics": [
    "charging"
