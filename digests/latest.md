@@ -1,4 +1,4 @@
-# Recall radar: 2026-10-23 to 2026-10-30
+# Recall radar: 2026-10-24 to 2026-10-31
 
 3 relevant recalls · CPSC 1 · SafetyGate 2
 
