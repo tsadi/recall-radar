@@ -42,6 +42,44 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/03144/26",
+  "date": "2026-11-03",
+  "title": "Toys: Beauty Sartorius series - Fashionable girls",
+  "hazard": "Chemical. The screw that secures the battery compartment is not captive. If the screw is lost when the batteries are being changed, the cover of the battery compartment could be removed easily. If a child puts the batteries in the mouth, the batteries can overheat and release electrolyte which can be ingested by the child and cause damage to the gastrointestinal tract.",
+  "description": "Pink plastic toy sewing machine. It comes with accessories: tape measure, fabric, spools of thread. The product does not comply with the requirements of the Toy Safety Directive nor with the European standard EN 62115.",
+  "remedy": "Removal From Online Marketplace; Warning Consumers Of Risks",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119419",
+  "flags": [
+   "fire"
+  ],
+  "topics": [
+   "battery"
+  ],
+  "score": 4
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03138/26",
+  "date": "2026-11-03",
+  "title": "Electrical Appliances: Transformateur d'alimentation \u00e0 d\u00e9coupage 220V \u00e0 12V, 5V, 9V, 12V, 15V, 24 V, transformateur 1a, 2",
+  "hazard": "Electric_Shock. The product's insulation and the creepage distance between the primary circuit and the secondary circuit are insufficient. The user could therefore have access to live parts and receive an electric shock.",
+  "description": "Charger, input voltage: 100-240\u00a0V\u00a0AC, output: 9\u00a0V DC  The product does not comply with the requirements of the Low Voltage Directive. ",
+  "remedy": "Warning Consumers Of Risks; Product Withdrawal From Market; Removal From Online Marketplace; Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119480",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/03109/26",
   "date": "2026-10-30",
   "title": "Electrical Appliances: Fast Charger with 15 W Power",
