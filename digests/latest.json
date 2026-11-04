@@ -61,6 +61,42 @@
   "score": 4
  },
  {
+  "source": "NHTSA",
+  "id": "26V717000",
+  "date": "2026-10-29",
+  "title": "General Motors, LLC: Loss of Braking",
+  "hazard": "A loss of braking ability increases the risk of a crash.",
+  "description": "SERVICE BRAKES, HYDRAULIC General Motors, LLC (GM) is recalling certain 2023\u20132027 Cadillac LYRIQ, 2025\u20132026 model year Cadillac CELESTIQ, 2024\u20132027 Chevrolet Blazer EV, and 2026-2027 Cadillac VISTIQ vehicles. The brake system control module (BSCM) contains a software defect that may cause a loss of braking during certain driving conditions.",
+  "remedy": "The BSCM software will be updated through an over-the-air (OTA) update or by a dealer, free of charge. Owner notification letters are expected to be mailed December 14, 2026. Owners may contact Cadillac customer service at 1-800-333-4223 or Chevrolet customer service at 1-800-222-1020. GM's number for this recall is N262570900. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on October 29, 2026.",
+  "manufacturer": "General Motors, LLC",
+  "country": "",
+  "units": 67380,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V717000",
+  "flags": [],
+  "topics": [
+   "ev-traction"
+  ],
+  "score": 3
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03135/26",
+  "date": "2026-11-04",
+  "title": "Electrical Appliances: Adaptateur secteur",
+  "hazard": "Electric_Shock. The insulation distance on the printed circuit board of the appliance is insufficient. The user could access live parts and receive an electric shock.",
+  "description": "Mains charger Voltage: 100-240\u00a0V\u00a0AC Secondary: 12\u00a0V\u00a0AC  The product does not comply with the requirements of the Low Voltage Directive.",
+  "remedy": "Removal From Online Marketplace; Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119533",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
+ },
+ {
   "source": "SafetyGate",
   "id": "SR/03138/26",
   "date": "2026-11-03",

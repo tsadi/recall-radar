@@ -1,6 +1,6 @@
-# Recall radar: 2026-10-27 to 2026-11-03
+# Recall radar: 2026-10-28 to 2026-11-04
 
-5 relevant recalls · CPSC 1 · SafetyGate 4
+7 relevant recalls · CPSC 1 · NHTSA 1 · SafetyGate 5
 
 ## Worth a post
 
@@ -26,5 +26,7 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119419
 | 10 | 2026-10-29 | CPSC | battery | [HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire…](https://cpsc.gov/Recalls/2027/HAIARA-Power-Banks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-com-by-Mitrytech) | 11,000 |
 | 5 | 2026-10-30 | SafetyGate | battery, e-mobility | [Hobby Sports Equipment: E-bike](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119491) |  |
 | 4 | 2026-11-03 | SafetyGate | battery | [Toys: Beauty Sartorius series - Fashionable girls](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119419) |  |
+| 3 | 2026-10-29 | NHTSA | ev-traction | [General Motors, LLC: Loss of Braking](https://www.nhtsa.gov/recalls?nhtsaId=26V717000) | 67,380 |
+| 1 | 2026-11-04 | SafetyGate | charging | [Electrical Appliances: Adaptateur secteur](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119533) |  |
 | 1 | 2026-11-03 | SafetyGate | charging | [Electrical Appliances: Transformateur d'alimentation à découpage 220V à 12V,…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119480) |  |
 | 1 | 2026-10-30 | SafetyGate | charging | [Electrical Appliances: Fast Charger with 15 W Power](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119514) |  |
