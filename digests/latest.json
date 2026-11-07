@@ -21,27 +21,6 @@
  },
  {
   "source": "SafetyGate",
-  "id": "SR/03110/26",
-  "date": "2026-10-30",
-  "title": "Hobby Sports Equipment: E-bike",
-  "hazard": "Fire. It is not possible to determine based on available documentation that there are sufficient battery protective systems in place to prevent thermal runaway from occurring. If the product is charged and left unattended overnight, a fault may occur potentially leading to the battery exploding and a fire starting.",
-  "description": "Black electric bicycle with charging supply and wall plug.  The product does not comply with the requirements of the Machinery Directive.",
-  "remedy": "Import Rejected At Border",
-  "manufacturer": "",
-  "country": "United Kingdom in respect of Northern Ireland",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119491",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery",
-   "e-mobility"
-  ],
-  "score": 5
- },
- {
-  "source": "SafetyGate",
   "id": "SR/03144/26",
   "date": "2026-11-03",
   "title": "Toys: Beauty Sartorius series - Fashionable girls",
@@ -85,7 +64,7 @@
   "title": "Electrical Appliances: Fast Charger with 15 W Power",
   "hazard": "Electric_Shock. The creepage distance between the primary and secondary circuit are inadequate. Live parts of the product may become accessible to the user who can receive an electric shock.",
   "description": "USB charger. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 62368-1.",
-  "remedy": "Product Recall From Consumers; Product Withdrawal From Market",
+  "remedy": "Product Withdrawal From Market; Product Recall From Consumers",
   "manufacturer": "",
   "country": "Denmark",
   "units": null,
