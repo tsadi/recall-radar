@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-01 to 2026-11-08
+# Recall radar: 2026-11-02 to 2026-11-09
 
-7 relevant recalls · CPSC 1 · NHTSA 1 · SafetyGate 5
+8 relevant recalls · CPSC 1 · NHTSA 1 · SafetyGate 6
 
 ## Worth a post
 
@@ -9,21 +9,22 @@
 Standards to look at: UL 2054 / IEC 62133-2 (portable packs), UL 2056 (power banks), UN 38.3
 https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0
 
+**Communication Media: Portable Bluetooth Speaker** (SafetyGate SR/03182/26, 2026-11-09)
+Fire, Injuries. The lithium-ion battery may overheat during normal use and enter thermal runaway. This may result in smoke, ejection of battery material and fire.
+Standards to look at: UL 2054 / IEC 62133-2 (portable packs), UL 2056 (power banks), UN 38.3
+https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119152
+
 **Toys: Beauty Sartorius series - Fashionable girls** (SafetyGate SR/03144/26, 2026-11-03)
 Chemical. The screw that secures the battery compartment is not captive. If the screw is lost when the batteries are being changed, the cover of the battery compartment could be removed easily. If a child puts the…
 Standards to look at: UL 2054 / IEC 62133-2 (portable packs), UL 2056 (power banks), UN 38.3
 https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119419
-
-**Hyundai Motor America: Air Bags & Seat Belt Pretensioners May Not Deploy in a Crash** (NHTSA 26V728000, 2026-11-03)
-37,901 units · Air bags and seat belt pretensioners that do not activate in a crash increases the risk of injury.
-Standards to look at: FMVSS 305a, UL 2580, ISO 6469-1, UN ECE R100
-https://www.nhtsa.gov/recalls?nhtsaId=26V728000
 
 ## All relevant recalls
 
 | Score | Date | Source | Topics | Recall | Units |
 |---|---|---|---|---|---|
 | 7 | 2026-11-05 | CPSC | battery | [Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth…](https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0) | 634,759 |
+| 4 | 2026-11-09 | SafetyGate | battery | [Communication Media: Portable Bluetooth Speaker](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119152) |  |
 | 4 | 2026-11-03 | SafetyGate | battery | [Toys: Beauty Sartorius series - Fashionable girls](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119419) |  |
 | 3 | 2026-11-03 | NHTSA | ev-traction | [Hyundai Motor America: Air Bags & Seat Belt Pretensioners May Not Deploy in a…](https://www.nhtsa.gov/recalls?nhtsaId=26V728000) | 37,901 |
 | 1 | 2026-11-06 | SafetyGate | charging | [Electrical Appliances: Fast Charger with 15 W Power](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119514) |  |

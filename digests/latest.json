@@ -21,6 +21,26 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/03182/26",
+  "date": "2026-11-09",
+  "title": "Communication Media: Portable Bluetooth Speaker",
+  "hazard": "Fire, Injuries. The lithium-ion battery may overheat during normal use and enter thermal runaway. This may result in smoke, ejection of battery material and fire.",
+  "description": "Portable rechargeable Bluetooth speaker powered by an internal lithium-ion battery pack, in dark grey, light grey and blue colours. The product does not comply with the requirements of the Radio Equipment Directive.",
+  "remedy": "Product Recall From Consumers; Warning Consumers Of Risks",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119152",
+  "flags": [
+   "fire"
+  ],
+  "topics": [
+   "battery"
+  ],
+  "score": 4
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/03144/26",
   "date": "2026-11-03",
   "title": "Toys: Beauty Sartorius series - Fashionable girls",
