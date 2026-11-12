@@ -1,6 +1,26 @@
 [
  {
   "source": "CPSC",
+  "id": "27085",
+  "date": "2026-11-12",
+  "title": "Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+  "hazard": "The recalled remote-controlled cars violate the mandatory standard for toys because they contain button cell and lithium-ion batteries in the remote control that can be easily accessed by children, posing a deadly ingestion hazard to children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death",
+  "description": "This recall involves the Kakgold 4WD stunt vehicles with a remote-control containing button cell and lithium-ion batteries. The toy car has a lime green and blue body, a black chassis and four black wheels with lime green trim and diagonal rollers. The vehicle body features checkered patterns, an \u201cX\u201d design and the words \u201cPRO\u201d and \u201cRACING.\u201d A white hang tag attached to the vehicle body displays \u201cDo Not Twist the Shaft\u201d in red lettering and illustrations marked with red crosses. ",
+  "remedy": "Consumers should stop using the remote-controlled car toys immediately and contact Kakgold for information on how to receive a full refund. Consumers will be asked to write \u201cRECALLED\u201d on the product and email a photograph showing the product being properly disposed of in the trash to kakrecall@outlook.com.\n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+  "manufacturer": "",
+  "country": "China",
+  "units": 294,
+  "url": "https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "flags": [
+   "fire"
+  ],
+  "topics": [
+   "battery"
+  ],
+  "score": 8
+ },
+ {
+  "source": "CPSC",
   "id": "27065",
   "date": "2026-11-05",
   "title": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards",
@@ -18,6 +38,44 @@
    "battery"
   ],
   "score": 7
+ },
+ {
+  "source": "CPSC",
+  "id": "27086",
+  "date": "2026-11-12",
+  "title": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard",
+  "hazard": "The recalled tricycles\u2019 rear wheels can become loose or separate from the rear frame, posing a risk of serious injury from a fall hazard.",
+  "description": "This recall involves Buzz Bicycles Cerana T2 E-Trike, model E4004. The tricycle is a pedal assist tricycle. The tricycle is gray with \"BUZZ\" logos on the left and right side. The tricycle has a 500-Watt motor and a 48-Volt battery. The tricycle has three 24-inch wheels. The model number is printed on a label near the pedals on the bottom side of the frame\u2019s downtube. ",
+  "remedy": "Consumers should stop using the recalled tricycles immediately and contact Huffy for free replacement rear axle assemblies. The rear wheel axle assemblies will be sent directly to consumers or to a third-party who will repair the tricycle. Huffy Corporation will reimburse consumers up to $100 for charges incurred by the third-party repair.",
+  "manufacturer": "",
+  "country": "China",
+  "units": 286,
+  "url": "https://www.cpsc.gov/Recalls/2027/Huffy-Recalls-Buzz-Bicycles-Cerana-T2-E-Trikes-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+  "flags": [],
+  "topics": [
+   "battery"
+  ],
+  "score": 5
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03230/26",
+  "date": "2026-11-12",
+  "title": "Toys: Kidoo",
+  "hazard": "Chemical. The toy's battery compartment opens easily without tools, making the batteries inside easily accessible. If a child puts them in the mouth, the batteries can overheat and release electrolyte which can be ingested by the child and cause damage to the gastrointestinal tract.",
+  "description": "Brown horse with a mane and tail, made of rigid plastic, with its body frame covered in fabric. A battery compartment\u2014housing two 1.5 V AA batteries\u2014is located in the belly area. When the switch (inside the battery compartment) is turned on, the toy moves. The product does not comply with the requirements of the Toy Safety Directive nor with the European standard EN 71-1.",
+  "remedy": "Product Withdrawal From Market",
+  "manufacturer": "",
+  "country": "Lithuania",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607",
+  "flags": [
+   "fire"
+  ],
+  "topics": [
+   "battery"
+  ],
+  "score": 4
  },
  {
   "source": "SafetyGate",
@@ -125,24 +183,6 @@
   "country": "Finland",
   "units": null,
   "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318",
-  "flags": [],
-  "topics": [
-   "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03135/26",
-  "date": "2026-11-04",
-  "title": "Electrical Appliances: Adaptateur secteur",
-  "hazard": "Electric_Shock. The insulation distance on the printed circuit board of the appliance is insufficient. The user could access live parts and receive an electric shock.",
-  "description": "Mains charger Voltage: 100-240\u00a0V\u00a0AC Secondary: 12\u00a0V\u00a0AC  The product does not comply with the requirements of the Low Voltage Directive.",
-  "remedy": "Removal From Online Marketplace; Product Recall From Consumers",
-  "manufacturer": "",
-  "country": "France",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119533",
   "flags": [],
   "topics": [
    "charging"
