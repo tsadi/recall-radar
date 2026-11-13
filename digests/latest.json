@@ -21,26 +21,6 @@
  },
  {
   "source": "CPSC",
-  "id": "27065",
-  "date": "2026-11-05",
-  "title": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards",
-  "hazard": "The recalled lithium-ion battery packs can overheat and ignite, posing a risk of injury from fire and overheating hazards.",
-  "description": "This recall involves lithium-ion rechargeable battery packs intended for use with Bose S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems. The serial number of the battery packs included in this recall begins with any one of the following six digits: 083723, 078352, 084105, 078591, 078592, 084106, or 086409.  The 17-digit serial number for the battery pack is printed on a label placed at the bottom of the battery pack. The affected battery packs were sold with S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and sold separately as accessories or replacement parts.",
-  "remedy": "Consumers should remove the recalled battery packs installed in any S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and stop using the battery packs immediately. Once the battery pack is removed, consumers may continue to use their S1 Pro and S1 Pro+ Portable Bluetooth Speakers while connected to AC power. Consumers will be asked to register and provide the affected battery pack\u2019s serial number at www.support.bose.com/s1-battery-recall to receive a free replacement battery pack. For battery packs that are not installed in the speaker systems, consumers can simply view the serial number and provide that number to the website listed above. Consumers should dispose of the affected battery pack in accordance with local and state regulations. \n\nNote: Do not throw this recalled lithium-ion battery pack in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery pack for disposal. Before taking your battery pack to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-  "manufacturer": "",
-  "country": "China",
-  "units": 634759,
-  "url": "https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery"
-  ],
-  "score": 7
- },
- {
-  "source": "CPSC",
   "id": "27086",
   "date": "2026-11-12",
   "title": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard",
@@ -119,6 +99,42 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/03269/26",
+  "date": "2026-11-13",
+  "title": "Electrical Appliances: 30W USB-C PD And QC3.0 Wall Charger + 65W USB-C PD Fast Charge Cable",
+  "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The secondary USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.\n",
+  "description": "Mains USB wall charger with white plastic enclosure, equipped with one USB-A and one USB-C output ports, supplied as a set with a USB-C to USB-C charging cable. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 60335-1.",
+  "remedy": "Product Withdrawal From Market; Product Recall From Consumers; Destruction Of Product; Ban Marketing Of Product",
+  "manufacturer": "",
+  "country": "Hungary",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119679",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03265/26",
+  "date": "2026-11-13",
+  "title": "Electrical Appliances: QUICK CHARGER TYPE-C Adapter",
+  "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The secondary USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.\n",
+  "description": "Mains USB wall charger with black plastic enclosure, equipped with one USB-C output port. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 60335-1.\n",
+  "remedy": "Ban Marketing Of Product; Product Withdrawal From Market; Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "Hungary",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119682",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/02886/26",
   "date": "2026-11-10",
   "title": "Electrical Appliances: DM132",
@@ -165,24 +181,6 @@
   "country": "Denmark",
   "units": null,
   "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119514",
-  "flags": [],
-  "topics": [
-   "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/02924/26",
-  "date": "2026-11-05",
-  "title": "Electrical Appliances: Girlanda",
-  "hazard": "Electric_Shock. The live parts of the lamp cap are accessible when the lamp is partially screwed into the lampholder of the luminaire, leading to electric shock. Consequently, the user could touch accessible live parts and receive an electric shock.\n\n\n",
-  "description": "LED-lighting chain. AC Mains pluggable with non-detachable power supply cord, class II, 16 A round plug. E27 lamp holders. The product does not comply with the requirements of the Low Voltage Directive and the relevant European standard EN IEC 60598.",
-  "remedy": "Product Recall From Consumers",
-  "manufacturer": "",
-  "country": "Finland",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318",
   "flags": [],
   "topics": [
    "charging"
