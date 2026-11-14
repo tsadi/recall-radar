@@ -104,7 +104,7 @@
   "title": "Electrical Appliances: 30W USB-C PD And QC3.0 Wall Charger + 65W USB-C PD Fast Charge Cable",
   "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The secondary USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.\n",
   "description": "Mains USB wall charger with white plastic enclosure, equipped with one USB-A and one USB-C output ports, supplied as a set with a USB-C to USB-C charging cable. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 60335-1.",
-  "remedy": "Product Withdrawal From Market; Product Recall From Consumers; Destruction Of Product; Ban Marketing Of Product",
+  "remedy": "Ban Marketing Of Product; Destruction Of Product; Product Withdrawal From Market; Product Recall From Consumers",
   "manufacturer": "",
   "country": "Hungary",
   "units": null,
@@ -122,7 +122,7 @@
   "title": "Electrical Appliances: QUICK CHARGER TYPE-C Adapter",
   "hazard": "Electric_Shock. The product lacks adequate insulation between the primary and secondary circuits. The secondary USB ports and the connected cable can become live under mains voltage. Consequently, the user may receive an electric shock.\n",
   "description": "Mains USB wall charger with black plastic enclosure, equipped with one USB-C output port. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 60335-1.\n",
-  "remedy": "Ban Marketing Of Product; Product Withdrawal From Market; Product Recall From Consumers",
+  "remedy": "Product Withdrawal From Market; Ban Marketing Of Product; Product Recall From Consumers",
   "manufacturer": "",
   "country": "Hungary",
   "units": null,
@@ -163,24 +163,6 @@
   "country": "France",
   "units": null,
   "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119329",
-  "flags": [],
-  "topics": [
-   "charging"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03109/26",
-  "date": "2026-11-06",
-  "title": "Electrical Appliances: Fast Charger with 15 W Power",
-  "hazard": "Electric_Shock. The creepage distance between the primary and secondary circuit are inadequate. Live parts of the product may become accessible to the user who can receive an electric shock.",
-  "description": "USB charger. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 62368-1.",
-  "remedy": "Product Recall From Consumers; Product Withdrawal From Market",
-  "manufacturer": "",
-  "country": "Denmark",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119514",
   "flags": [],
   "topics": [
    "charging"

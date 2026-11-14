@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-06 to 2026-11-13
+# Recall radar: 2026-11-07 to 2026-11-14
 
-10 relevant recalls · CPSC 2 · SafetyGate 8
+9 relevant recalls · CPSC 2 · SafetyGate 7
 
 ## Worth a post
 
@@ -32,4 +32,3 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607
 | 1 | 2026-11-13 | SafetyGate | charging | [Electrical Appliances: QUICK CHARGER TYPE-C Adapter](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119682) |  |
 | 1 | 2026-11-10 | SafetyGate | charging | [Electrical Appliances: DM132](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119149) |  |
 | 1 | 2026-11-10 | SafetyGate | charging | [Electrical Appliances: Chargeur Rapide 20W avec Port USB](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119329) |  |
-| 1 | 2026-11-06 | SafetyGate | charging | [Electrical Appliances: Fast Charger with 15 W Power](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119514) |  |
