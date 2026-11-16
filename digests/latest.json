@@ -99,6 +99,60 @@
  },
  {
   "source": "SafetyGate",
+  "id": "SR/03276/26",
+  "date": "2026-11-16",
+  "title": "Hobby Sports Equipment: C100 Plus",
+  "hazard": "Injuries. The product is fitted with a single-action throttle that allows it to operate without pedalling at speeds of up to 25 km/h. This could cause the rider to travel at excessive speed and lose control. In addition, welds and joints may corrode and fail over time, which could compromise the structural integrity of the product and increase the risk of injury.",
+  "description": "Electric bicycle, with wall plug and other accessories. The product does not comply with the requirements of the Machinery Directive.",
+  "remedy": "Import Rejected At Border",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119608",
+  "flags": [],
+  "topics": [
+   "e-mobility"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03277/26",
+  "date": "2026-11-16",
+  "title": "Machinery: Mini Chainsaw, 4L",
+  "hazard": "Electric_Shock. The product is fitted with a non-compliant plug, which could expose the user to live parts and result in an electric shock.",
+  "description": "Small hand-held electric chainsaw with a wall plug and lithium battery. The product does not comply with the requirements of the Machinery Directive.",
+  "remedy": "Import Rejected At Border",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119609",
+  "flags": [],
+  "topics": [
+   "battery"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03278/26",
+  "date": "2026-11-16",
+  "title": "Hobby Sports Equipment: Electric bicycle",
+  "hazard": "Injuries. The product has been modified with concealed override switches beneath the seat. These modifications allow riders to bypass the legally mandated 25 km/h speed limit, reaching speeds of approximately 30km/h. This could reduce the rider\u2019s ability to control the vehicle and increase the risk of an accident and injury.",
+  "description": "Electric bicycle, 250W pedal assist. The product does not comply with the requirements of the Machinery Directive.",
+  "remedy": "Product Withdrawal From Market; Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "United Kingdom in respect of Northern Ireland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119560",
+  "flags": [],
+  "topics": [
+   "e-mobility"
+  ],
+  "score": 1
+ },
+ {
+  "source": "SafetyGate",
   "id": "SR/03269/26",
   "date": "2026-11-13",
   "title": "Electrical Appliances: 30W USB-C PD And QC3.0 Wall Charger + 65W USB-C PD Fast Charge Cable",

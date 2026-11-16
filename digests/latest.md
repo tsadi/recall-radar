@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-08 to 2026-11-15
+# Recall radar: 2026-11-09 to 2026-11-16
 
-9 relevant recalls · CPSC 2 · SafetyGate 7
+12 relevant recalls · CPSC 2 · SafetyGate 10
 
 ## Worth a post
 
@@ -28,6 +28,9 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607
 | 4 | 2026-11-12 | SafetyGate | battery | [Toys: Kidoo](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607) |  |
 | 4 | 2026-11-10 | SafetyGate | battery | [Toys: COOL.TRICYCLES/ Tricycle électrique pour garçons, jouets interactifs…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348) |  |
 | 4 | 2026-11-09 | SafetyGate | battery | [Communication Media: Portable Bluetooth Speaker](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119152) |  |
+| 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: C100 Plus](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119608) |  |
+| 1 | 2026-11-16 | SafetyGate | battery | [Machinery: Mini Chainsaw, 4L](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119609) |  |
+| 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: Electric bicycle](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119560) |  |
 | 1 | 2026-11-13 | SafetyGate | charging | [Electrical Appliances: 30W USB-C PD And QC3.0 Wall Charger + 65W USB-C PD Fast…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119679) |  |
 | 1 | 2026-11-13 | SafetyGate | charging | [Electrical Appliances: QUICK CHARGER TYPE-C Adapter](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119682) |  |
 | 1 | 2026-11-10 | SafetyGate | charging | [Electrical Appliances: DM132](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119149) |  |
