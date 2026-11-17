@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-09 to 2026-11-16
+# Recall radar: 2026-11-10 to 2026-11-17
 
-12 relevant recalls · CPSC 2 · SafetyGate 10
+11 relevant recalls · CPSC 2 · SafetyGate 9
 
 ## Worth a post
 
@@ -27,7 +27,6 @@ https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607
 | 5 | 2026-11-12 | CPSC | battery | [Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury…](https://www.cpsc.gov/Recalls/2027/Huffy-Recalls-Buzz-Bicycles-Cerana-T2-E-Trikes-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard) | 286 |
 | 4 | 2026-11-12 | SafetyGate | battery | [Toys: Kidoo](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607) |  |
 | 4 | 2026-11-10 | SafetyGate | battery | [Toys: COOL.TRICYCLES/ Tricycle électrique pour garçons, jouets interactifs…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119348) |  |
-| 4 | 2026-11-09 | SafetyGate | battery | [Communication Media: Portable Bluetooth Speaker](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119152) |  |
 | 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: C100 Plus](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119608) |  |
 | 1 | 2026-11-16 | SafetyGate | battery | [Machinery: Mini Chainsaw, 4L](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119609) |  |
 | 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: Electric bicycle](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119560) |  |
