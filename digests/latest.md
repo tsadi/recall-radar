@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-12 to 2026-11-19
+# Recall radar: 2026-11-13 to 2026-11-20
 
-14 relevant recalls · CPSC 5 · SafetyGate 9
+13 relevant recalls · CPSC 3 · SafetyGate 10
 
 ## Worth a post
 
@@ -26,11 +26,10 @@ https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Pac
 | 11 | 2026-11-19 | CPSC | battery | [Hultafors Group North America Recalls Lighted Portfolios, Angle Locators,…](https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries) | 229,430 |
 | 8 | 2026-11-19 | CPSC | robotics | [CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from…](https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys) | 101,282 |
 | 8 | 2026-11-19 | CPSC | battery | [Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious…](https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards) | 269 |
-| 8 | 2026-11-12 | CPSC | battery | [Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury…](https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys) | 294 |
-| 5 | 2026-11-12 | CPSC | battery | [Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury…](https://www.cpsc.gov/Recalls/2027/Huffy-Recalls-Buzz-Bicycles-Cerana-T2-E-Trikes-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard) | 286 |
 | 4 | 2026-11-19 | SafetyGate | charging | [Electrical Appliances: - Alimentation électrique AC DC 3V 9V 12V 24V 36V 2A 3A…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119681) |  |
 | 4 | 2026-11-18 | SafetyGate | charging | [Electrical Appliances: Electric brush](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119619) |  |
-| 4 | 2026-11-12 | SafetyGate | battery | [Toys: Kidoo](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119607) |  |
+| 1 | 2026-11-20 | SafetyGate | battery | [Toys: Kids music turtle crab toy](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119794) |  |
+| 1 | 2026-11-20 | SafetyGate | battery | [Toys: Ride-on toy car](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119797) |  |
 | 1 | 2026-11-18 | SafetyGate | charging | [Electrical Appliances: USB Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119637) |  |
 | 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: C100 Plus](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119608) |  |
 | 1 | 2026-11-16 | SafetyGate | battery | [Machinery: Mini Chainsaw, 4L](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119609) |  |
