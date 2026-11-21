@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-13 to 2026-11-20
+# Recall radar: 2026-11-14 to 2026-11-21
 
-13 relevant recalls · CPSC 3 · SafetyGate 10
+11 relevant recalls · CPSC 3 · SafetyGate 8
 
 ## Worth a post
 
@@ -34,5 +34,3 @@ https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Pac
 | 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: C100 Plus](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119608) |  |
 | 1 | 2026-11-16 | SafetyGate | battery | [Machinery: Mini Chainsaw, 4L](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119609) |  |
 | 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: Electric bicycle](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119560) |  |
-| 1 | 2026-11-13 | SafetyGate | charging | [Electrical Appliances: 30W USB-C PD And QC3.0 Wall Charger + 65W USB-C PD Fast…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119679) |  |
-| 1 | 2026-11-13 | SafetyGate | charging | [Electrical Appliances: QUICK CHARGER TYPE-C Adapter](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119682) |  |
