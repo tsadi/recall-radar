@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-15 to 2026-11-22
+# Recall radar: 2026-11-17 to 2026-11-24
 
-11 relevant recalls · CPSC 3 · SafetyGate 8
+8 relevant recalls · CPSC 3 · SafetyGate 5
 
 ## Worth a post
 
@@ -31,6 +31,3 @@ https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Pac
 | 1 | 2026-11-20 | SafetyGate | battery | [Toys: Kids music turtle crab toy](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119794) |  |
 | 1 | 2026-11-20 | SafetyGate | battery | [Toys: Ride-on toy car](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119797) |  |
 | 1 | 2026-11-18 | SafetyGate | charging | [Electrical Appliances: USB Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119637) |  |
-| 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: C100 Plus](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119608) |  |
-| 1 | 2026-11-16 | SafetyGate | battery | [Machinery: Mini Chainsaw, 4L](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119609) |  |
-| 1 | 2026-11-16 | SafetyGate | e-mobility | [Hobby Sports Equipment: Electric bicycle](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119560) |  |
