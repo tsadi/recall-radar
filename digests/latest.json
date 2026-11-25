@@ -98,6 +98,78 @@
   "score": 4
  },
  {
+  "source": "NHTSA",
+  "id": "26E087000",
+  "date": "2026-11-20",
+  "title": "Waymo LLC: Vehicle May Fail to Remain Stopped for Traffic Control Hand Gestures",
+  "hazard": "Proceeding into an intersection under manual traffic control without permission increases the risk of a crash.",
+  "description": "ELECTRICAL SYSTEM Waymo LLC (Waymo) is recalling certain 5th Generation and 6th Generation Automated Driving Systems (ADS) operating a software version prior to the September 17, 2026 release. The vehicle may fail to remain stopped after initially stopping for traffic control hand gestures from law enforcement.",
+  "remedy": "Waymo has updated the ADS software, free of charge. All affected vehicles were repaired by November 6, 2026.",
+  "manufacturer": "Waymo LLC",
+  "country": "",
+  "units": 4488,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26E087000",
+  "flags": [],
+  "topics": [
+   "robotics"
+  ],
+  "score": 2
+ },
+ {
+  "source": "NHTSA",
+  "id": "26E086000",
+  "date": "2026-11-20",
+  "title": "Waymo LLC: Software May Allow Vehicle to Drive in Closed Lane on Freeway",
+  "hazard": "Driving in a closed lane on a freeway increases the risk of a crash.",
+  "description": "ELECTRICAL SYSTEM Waymo LLC (Waymo) is recalling certain 5th Generation and 6th Generation Automated Driving Systems (ADS). The software may allow the vehicle to enter a closed freeway lane and continue driving at speed.",
+  "remedy": "Beginning November 11, 2026, Waymo modified the scope of operations to avoid conditions that presented an increased likelihood of encountering closed freeway lanes. The final remedy is currently under development.",
+  "manufacturer": "Waymo LLC",
+  "country": "",
+  "units": 4488,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26E086000",
+  "flags": [],
+  "topics": [
+   "robotics"
+  ],
+  "score": 2
+ },
+ {
+  "source": "NHTSA",
+  "id": "26V755000",
+  "date": "2026-11-18",
+  "title": "Gillig, LLC: EV System May Switch into Neutral Unexpectedly",
+  "hazard": "An unexpected switch to neutral can cause a loss of drive power and increase the risk of a crash.",
+  "description": "ELECTRICAL SYSTEM Gillig, LLC (Gillig) is recalling certain 2023-2026 Low Floor electric transit buses. The EV resolver cable may lose electrical connectivity, unexpectedly switching from drive to neutral with no warning.",
+  "remedy": "Gillig will replace the external resolver cable support bracket and clamp, free of charge. Owner notification letters are expected to be mailed December 14, 2026. Owners may contact Gillig's customer service at 1-800-735-1500.",
+  "manufacturer": "Gillig, LLC",
+  "country": "",
+  "units": 1323,
+  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V755000",
+  "flags": [],
+  "topics": [
+   "ev-traction"
+  ],
+  "score": 2
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/02924/26",
+  "date": "2026-11-25",
+  "title": "Electrical Appliances: Girlanda",
+  "hazard": "Electric_Shock. The live parts of the lamp cap are accessible when the lamp is partially screwed into the lampholder of the luminaire, leading to electric shock. Consequently, the user could touch accessible live parts and receive an electric shock.\n\n\n",
+  "description": "LED-lighting chain. AC Mains pluggable with non-detachable power supply cord, class II, 16 A round plug. E27 lamp holders. The product does not comply with the requirements of the Low Voltage Directive and the relevant European standard EN IEC 60598.",
+  "remedy": "Product Recall From Consumers",
+  "manufacturer": "",
+  "country": "Finland",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
+ },
+ {
   "source": "SafetyGate",
   "id": "SR/03395/26",
   "date": "2026-11-20",
