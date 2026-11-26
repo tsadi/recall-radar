@@ -78,26 +78,6 @@
   "score": 4
  },
  {
-  "source": "SafetyGate",
-  "id": "SR/03246/26",
-  "date": "2026-11-18",
-  "title": "Electrical Appliances: Electric brush",
-  "hazard": "Burns. The product becomes excessively hot when connected to the power supply and may therefore cause burns.",
-  "description": "White plastic electric hairbrush with an ON/OFF switch, powered by a 220 V mains supply and fitted with a black power cord. The product does not comply with the requirements of the Low Voltage Directive nor with the European standard EN 60335-1.",
-  "remedy": "Ban Marketing Of Product",
-  "manufacturer": "",
-  "country": "Romania",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119619",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "charging"
-  ],
-  "score": 4
- },
- {
   "source": "NHTSA",
   "id": "26E087000",
   "date": "2026-11-20",
@@ -130,24 +110,6 @@
   "flags": [],
   "topics": [
    "robotics"
-  ],
-  "score": 2
- },
- {
-  "source": "NHTSA",
-  "id": "26V755000",
-  "date": "2026-11-18",
-  "title": "Gillig, LLC: EV System May Switch into Neutral Unexpectedly",
-  "hazard": "An unexpected switch to neutral can cause a loss of drive power and increase the risk of a crash.",
-  "description": "ELECTRICAL SYSTEM Gillig, LLC (Gillig) is recalling certain 2023-2026 Low Floor electric transit buses. The EV resolver cable may lose electrical connectivity, unexpectedly switching from drive to neutral with no warning.",
-  "remedy": "Gillig will replace the external resolver cable support bracket and clamp, free of charge. Owner notification letters are expected to be mailed December 14, 2026. Owners may contact Gillig's customer service at 1-800-735-1500.",
-  "manufacturer": "Gillig, LLC",
-  "country": "",
-  "units": 1323,
-  "url": "https://www.nhtsa.gov/recalls?nhtsaId=26V755000",
-  "flags": [],
-  "topics": [
-   "ev-traction"
   ],
   "score": 2
  },
@@ -202,24 +164,6 @@
   "flags": [],
   "topics": [
    "battery"
-  ],
-  "score": 1
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03327/26",
-  "date": "2026-11-18",
-  "title": "Electrical Appliances: USB Charger",
-  "hazard": "Electric_Shock. The dielectric strength of the USB connectors is insufficient and can cause a discharge between the primary and secondary sides, the user could receive an electric shock from accessible live parts. ",
-  "description": "Set of three white mains adaptors. Dimensions approximately 7 x 3 x 1.5\u00a0cm. The product does not comply with the requirements of the Low Voltage Directive. ",
-  "remedy": "Product Recall From Consumers",
-  "manufacturer": "",
-  "country": "Germany",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119637",
-  "flags": [],
-  "topics": [
-   "charging"
   ],
   "score": 1
  }

@@ -1,6 +1,6 @@
-# Recall radar: 2026-11-18 to 2026-11-25
+# Recall radar: 2026-11-19 to 2026-11-26
 
-12 relevant recalls · CPSC 3 · NHTSA 3 · SafetyGate 6
+9 relevant recalls · CPSC 3 · NHTSA 2 · SafetyGate 4
 
 ## Worth a post
 
@@ -27,11 +27,8 @@ https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Pac
 | 8 | 2026-11-19 | CPSC | robotics | [CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from…](https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys) | 101,282 |
 | 8 | 2026-11-19 | CPSC | battery | [Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious…](https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards) | 269 |
 | 4 | 2026-11-19 | SafetyGate | charging | [Electrical Appliances: - Alimentation électrique AC DC 3V 9V 12V 24V 36V 2A 3A…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119681) |  |
-| 4 | 2026-11-18 | SafetyGate | charging | [Electrical Appliances: Electric brush](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119619) |  |
 | 2 | 2026-11-20 | NHTSA | robotics | [Waymo LLC: Vehicle May Fail to Remain Stopped for Traffic Control Hand Gestures](https://www.nhtsa.gov/recalls?nhtsaId=26E087000) | 4,488 |
 | 2 | 2026-11-20 | NHTSA | robotics | [Waymo LLC: Software May Allow Vehicle to Drive in Closed Lane on Freeway](https://www.nhtsa.gov/recalls?nhtsaId=26E086000) | 4,488 |
-| 2 | 2026-11-18 | NHTSA | ev-traction | [Gillig, LLC: EV System May Switch into Neutral Unexpectedly](https://www.nhtsa.gov/recalls?nhtsaId=26V755000) | 1,323 |
 | 1 | 2026-11-25 | SafetyGate | charging | [Electrical Appliances: Girlanda](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318) |  |
 | 1 | 2026-11-20 | SafetyGate | battery | [Toys: Kids music turtle crab toy](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119794) |  |
 | 1 | 2026-11-20 | SafetyGate | battery | [Toys: Ride-on toy car](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119797) |  |
-| 1 | 2026-11-18 | SafetyGate | charging | [Electrical Appliances: USB Charger](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119637) |  |
