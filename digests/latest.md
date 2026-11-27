@@ -1,34 +1,14 @@
-# Recall radar: 2026-11-19 to 2026-11-26
+# Recall radar: 2026-11-20 to 2026-11-27
 
-9 relevant recalls · CPSC 3 · NHTSA 2 · SafetyGate 4
-
-## Worth a post
-
-**Hultafors Group North America Recalls Lighted Portfolios, Angle Locators, Calipers and Calculators Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries** (CPSC 27090, 2026-11-19)
-229,430 units · The various trade tools violate the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard.…
-Standards to look at: UL 2054 / IEC 62133-2 (portable packs), UL 2056 (power banks), UN 38.3
-https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries
-
-**CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys** (CPSC 27096, 2026-11-19)
-101,282 units · The recalled magnetic stick figures violate the mandatory standard for toys because when pulled apart, the figures’ arms and legs liberate high-powered magnets posing an ingestion hazard to children. When high-powered…
-Standards to look at: ISO 10218, ISO 13482, UL 3300, ANSI/A3 R15.08, UL 4600 (autonomy)
-https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys
-
-**Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious Injury from Fire and Burn Hazards** (CPSC 27097, 2026-11-19)
-269 units · The recalled lithium-ion battery packs can overheat, posing a risk of serious injury from fire and burn hazards.
-Standards to look at: UL 2054 / IEC 62133-2 (portable packs), UL 2056 (power banks), UN 38.3
-https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards
+6 relevant recalls · NHTSA 2 · SafetyGate 4
 
 ## All relevant recalls
 
 | Score | Date | Source | Topics | Recall | Units |
 |---|---|---|---|---|---|
-| 11 | 2026-11-19 | CPSC | battery | [Hultafors Group North America Recalls Lighted Portfolios, Angle Locators,…](https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries) | 229,430 |
-| 8 | 2026-11-19 | CPSC | robotics | [CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from…](https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys) | 101,282 |
-| 8 | 2026-11-19 | CPSC | battery | [Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious…](https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards) | 269 |
-| 4 | 2026-11-19 | SafetyGate | charging | [Electrical Appliances: - Alimentation électrique AC DC 3V 9V 12V 24V 36V 2A 3A…](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119681) |  |
 | 2 | 2026-11-20 | NHTSA | robotics | [Waymo LLC: Vehicle May Fail to Remain Stopped for Traffic Control Hand Gestures](https://www.nhtsa.gov/recalls?nhtsaId=26E087000) | 4,488 |
 | 2 | 2026-11-20 | NHTSA | robotics | [Waymo LLC: Software May Allow Vehicle to Drive in Closed Lane on Freeway](https://www.nhtsa.gov/recalls?nhtsaId=26E086000) | 4,488 |
+| 1 | 2026-11-27 | SafetyGate | charging | [Electrical Appliances: Chargeur universel pour tondeuses](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119858) |  |
 | 1 | 2026-11-25 | SafetyGate | charging | [Electrical Appliances: Girlanda](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119318) |  |
 | 1 | 2026-11-20 | SafetyGate | battery | [Toys: Kids music turtle crab toy](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119794) |  |
 | 1 | 2026-11-20 | SafetyGate | battery | [Toys: Ride-on toy car](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119797) |  |

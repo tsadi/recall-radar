@@ -1,83 +1,5 @@
 [
  {
-  "source": "CPSC",
-  "id": "27090",
-  "date": "2026-11-19",
-  "title": "Hultafors Group North America Recalls Lighted Portfolios, Angle Locators, Calipers and Calculators Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries",
-  "hazard": "The various trade tools violate the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard. Additionally, the packaging and product do not have the warnings required under\u202fReese\u2019s Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.",
-  "description": "This recall involves CLC Lighted Portfolio & Johnson Level Digital Angle Locator, Digital Caliper and Building Calculator, with the model numbers located on the unit and the package labeling. The following models, UPC Codes and retail prices are included in this recall.",
-  "remedy": "Consumers should stop using the recalled trade tools immediately, place them in an area inaccessible to children and contact Hultafors Group North America. To obtain a refund, consumers will be asked to upload a photograph of the product at  www.HG2026.expertinquiry.com and certify that the product has been disposed of and will no longer be used. Upon verification, consumers will receive the retail price, as shown in table below in the form of a virtual Visa gift card. The virtual Visa gift card may be redeemed at any establishment that accepts Visa.\n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
-  "manufacturer": "Hultafors Group North America, Inc., of Mequon, Wisconsin",
-  "country": "China",
-  "units": 229430,
-  "url": "https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery"
-  ],
-  "score": 11
- },
- {
-  "source": "CPSC",
-  "id": "27096",
-  "date": "2026-11-19",
-  "title": "CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
-  "hazard": "The recalled magnetic stick figures violate the mandatory standard for toys because when pulled apart, the figures\u2019 arms and legs liberate high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects, and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
-  "description": "This recall involves CHE-US magnetic stick figure toys. The robot-shaped toys were sold in sets of five or 10 purple, blue, yellow, red and green stick figures. Each stick figure has four small magnets, one in each hand and foot. \u201cX004N3MGCB\u201d is printed on the back of the product packaging.",
-  "remedy": "Consumers should stop using the stick figures immediately, take them away from children and contact CHE-US for a full refund. Consumers will be asked to send a photo of the toys in the trash to CHE-USMagneticRobotToysRecall@outlook.com. Consumers should then dispose of the recalled product.",
-  "manufacturer": "",
-  "country": "China",
-  "units": 101282,
-  "url": "https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
-  "flags": [],
-  "topics": [
-   "robotics"
-  ],
-  "score": 8
- },
- {
-  "source": "CPSC",
-  "id": "27097",
-  "date": "2026-11-19",
-  "title": "Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious Injury from Fire and Burn Hazards",
-  "hazard": "The recalled lithium-ion battery packs can overheat, posing a risk of serious injury from fire and burn hazards.",
-  "description": "This recall involves ororo\u2019s rechargeable lithium-ion battery packs, model PD10K-Pro. The black battery packs have a built-in USB-C cable and a digital display. \u201cororo\u201d is written on the front of the battery pack. The model and a seven alphanumeric serial number starting with 67U, 685, 686 or 68A is printed on the back.",
-  "remedy": "Consumers should stop using the battery packs immediately and contact ororo for a full refund. Consumers will be asked to go to Ororowear.com/pd10k-pro-recall to register and to receive disposal instructions. Once registered, consumers should dispose of the recalled battery packs in accordance with local and state regulations.  \n\nNote: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-  "manufacturer": "",
-  "country": "China",
-  "units": 269,
-  "url": "https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "battery"
-  ],
-  "score": 8
- },
- {
-  "source": "SafetyGate",
-  "id": "SR/03391/26",
-  "date": "2026-11-19",
-  "title": "Electrical Appliances: - Alimentation \u00e9lectrique AC DC 3V 9V 12V 24V 36V 2A 3A 5A 10A, transformateur d'\u00e9clairage 220V \u00e0 12",
-  "hazard": "Electric_Shock, Fire. The creepage and clearance distances of the electrical circuit of the device and its insulation are inadequate. Live parts may become accessible, and the user could receive an electric shock. Moreover, this may lead to a fire. ",
-  "description": "Power supply, AC DC 3V 9V 12V 24V 36V 2A 3A 5A 10A, for 220V to 12V lighting transformer. The product does not comply with the requirements of the Low Voltage Directive nor with the European standards EN 61558 and EN 55032.",
-  "remedy": "Removal From Online Marketplace; Warning Consumers Of Risks",
-  "manufacturer": "",
-  "country": "France",
-  "units": null,
-  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119681",
-  "flags": [
-   "fire"
-  ],
-  "topics": [
-   "charging"
-  ],
-  "score": 4
- },
- {
   "source": "NHTSA",
   "id": "26E087000",
   "date": "2026-11-20",
@@ -112,6 +34,24 @@
    "robotics"
   ],
   "score": 2
+ },
+ {
+  "source": "SafetyGate",
+  "id": "SR/03501/26",
+  "date": "2026-11-27",
+  "title": "Electrical Appliances: Chargeur universel pour tondeuses",
+  "hazard": "Electric_Shock. The internal wires of the product connected to the mains are not fixed correctly. In addition, the insulation distance between the live parts connected to the mains and the accessible parts is insufficient. Consequently, the user may receive an electric shock.",
+  "description": "Electric charger with input voltage: 100-240\u00a0V\u00a0AC, output: 3.6\u00a0V\u00a0DC, input current: 0.3\u00a0A and output: 1.5\u00a0A. The product does not comply with the requirements of the Low Voltage Directive.",
+  "remedy": "Removal From Online Marketplace",
+  "manufacturer": "",
+  "country": "France",
+  "units": null,
+  "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10119858",
+  "flags": [],
+  "topics": [
+   "charging"
+  ],
+  "score": 1
  },
  {
   "source": "SafetyGate",
